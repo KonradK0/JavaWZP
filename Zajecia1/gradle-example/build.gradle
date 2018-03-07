@@ -1,0 +1,33 @@
+group 'konrad.jwzp.cwiczenia'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile group: 'org.apache.commons', name: 'commons-lang3', version: '3.6'
+}
+
+jar {
+    manifest {
+        attributes "Main-Class": "GradleExample"
+    }
+}
+
+task customFatJar(type: Jar){
+    baseName = 'custom-fat-jar'
+
+    manifest {
+        attributes "Main-Class": "GradleExample"
+    }
+    doLast {
+        from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
+        with jar
+    }
+}
