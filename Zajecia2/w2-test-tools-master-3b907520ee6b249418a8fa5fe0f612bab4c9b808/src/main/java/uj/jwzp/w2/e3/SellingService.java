@@ -12,26 +12,26 @@ public class SellingService {
     final private DiscountsConfigWrapper discountsConfigWrapper;
 
 
-    /* constructor used in real life */
-    public SellingService(PersistenceLayer persistenceLayer) {
+    /* constructor used in tests */
+    public SellingService(PersistenceLayer persistenceLayer, DiscountsConfigWrapper discountsConfigWrapper) {
         this.persistenceLayer = persistenceLayer;
         this.persistenceLayer.loadDiscountConfiguration();
         this.moneyService = new CustomerMoneyService(this.persistenceLayer);
-        this.discountsConfigWrapper = DiscountsConfigWrapper.SINGLETON;
+        this.discountsConfigWrapper = discountsConfigWrapper;
     }
 
-//     constructor used in tests
-//    public SellingService(PersistenceLayer persistenceLayer, DiscountsConfigWrapper dcw) {
+    // constructor used in real situations ( omitted here to get as much test coverage as possible  )
+//    public SellingService(PersistenceLayer persistenceLayer) {
 //        this.persistenceLayer = persistenceLayer;
 //        this.persistenceLayer.loadDiscountConfiguration();
 //        this.moneyService = new CustomerMoneyService(this.persistenceLayer);
-//        this.discountsConfigWrapper = dcw;
+//        this.discountsConfigWrapper = DiscountsConfigWrapper.SINGLETON;
 //    }
 
-    public boolean sell(Item item, int quantity, Customer customer, BigDecimal discount, Boolean isWeekendPromotion) {
+    public boolean sell(Item item, int quantity, Customer customer) {
         BigDecimal money = moneyService.getMoney(customer);
-        BigDecimal price = item.getPrice().subtract(discount).multiply(BigDecimal.valueOf(quantity));
-        if (isWeekendPromotion && price.compareTo(BigDecimal.valueOf(5)) > 0) {
+        BigDecimal price = item.getPrice().subtract(discountsConfigWrapper.getDiscountForItemWrapper(item, customer)).multiply(BigDecimal.valueOf(quantity));
+        if (discountsConfigWrapper.isWeekendPromotionWrapper() && price.compareTo(BigDecimal.valueOf(5)) > 0) {
             price = price.subtract(BigDecimal.valueOf(3));
         }
         boolean sold = moneyService.pay(customer, price);

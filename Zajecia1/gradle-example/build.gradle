@@ -2,6 +2,7 @@ group 'konrad.jwzp.cwiczenia'
 version '1.0-SNAPSHOT'
 
 apply plugin: 'java'
+apply plugin: 'maven-publish'
 
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
@@ -14,20 +15,19 @@ dependencies {
     compile group: 'org.apache.commons', name: 'commons-lang3', version: '3.6'
 }
 
-jar {
+task customFatJar(type: Jar) {
     manifest {
-        attributes "Main-Class": "GradleExample"
+        attributes 'Main-Class': 'GradleExample'
     }
+    baseName = 'all-in-one-jar'
+    from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
+    with jar
 }
 
-task customFatJar(type: Jar){
-    baseName = 'custom-fat-jar'
-
-    manifest {
-        attributes "Main-Class": "GradleExample"
-    }
-    doLast {
-        from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
-        with jar
+publishing {
+    publications {
+        mavenJava(MavenPublication) {
+            from components.java
+        }
     }
 }

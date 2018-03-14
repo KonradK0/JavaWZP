@@ -1,0 +1,38 @@
+{
+  "id": 61,
+  "timestamp": "2018-03-14T10:38:51-01:00",
+  "customerId": 17,
+  "items": [
+    {
+      "name": "\"chleb biały\"",
+      "quantity": 19,
+      "price": 2.2
+    },
+    {
+      "name": "\"chleb biały\"",
+      "quantity": 9,
+      "price": 2.2
+    },
+    {
+      "name": "\"chleb ciemny\"",
+      "quantity": 3,
+      "price": 2.5
+    },
+    {
+      "name": "\"chleb ciemny\"",
+      "quantity": 29,
+      "price": 2.5
+    },
+    {
+      "name": "\"bułeczka\"",
+      "quantity": 25,
+      "price": 1.2
+    },
+    {
+      "name": "\"masło\"",
+      "quantity": 3,
+      "price": 5.0
+    }
+  ],
+  "sum": 186.60000000000002
+}

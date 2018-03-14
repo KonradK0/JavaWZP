@@ -1,0 +1,48 @@
+{
+  "id": 20,
+  "timestamp": "2018-03-14T07:26:27-01:00",
+  "customerId": 10,
+  "items": [
+    {
+      "name": "\"woda 1.5l\"",
+      "quantity": 22,
+      "price": 2.0
+    },
+    {
+      "name": "\"jajko\"",
+      "quantity": 24,
+      "price": 0.5
+    },
+    {
+      "name": "\"jajko\"",
+      "quantity": 25,
+      "price": 0.5
+    },
+    {
+      "name": "\"jajko\"",
+      "quantity": 20,
+      "price": 0.5
+    },
+    {
+      "name": "\"jajko\"",
+      "quantity": 19,
+      "price": 0.5
+    },
+    {
+      "name": "\"bułeczka\"",
+      "quantity": 4,
+      "price": 1.2
+    },
+    {
+      "name": "\"chleb ciemny\"",
+      "quantity": 21,
+      "price": 2.5
+    },
+    {
+      "name": "\"chleb biały\"",
+      "quantity": 22,
+      "price": 2.2
+    }
+  ],
+  "sum": 193.70000000000002
+}

@@ -1,0 +1,48 @@
+{
+  "id": 311,
+  "timestamp": "2018-03-14T07:42:09-01:00",
+  "customerId": 19,
+  "items": [
+    {
+      "name": "\"woda gazowana 1.5l\"",
+      "quantity": 4,
+      "price": 2.1
+    },
+    {
+      "name": "\"chleb ciemny\"",
+      "quantity": 4,
+      "price": 2.5
+    },
+    {
+      "name": "\"mleko 3% 1l\"",
+      "quantity": 4,
+      "price": 2.3
+    },
+    {
+      "name": "\"chleb biały\"",
+      "quantity": 9,
+      "price": 2.2
+    },
+    {
+      "name": "\"chleb biały\"",
+      "quantity": 20,
+      "price": 2.2
+    },
+    {
+      "name": "\"bułeczka\"",
+      "quantity": 21,
+      "price": 1.2
+    },
+    {
+      "name": "\"bułeczka\"",
+      "quantity": 29,
+      "price": 1.2
+    },
+    {
+      "name": "\"woda gazowana 1.5l\"",
+      "quantity": 20,
+      "price": 2.1
+    }
+  ],
+  "sum": 193.4
+}

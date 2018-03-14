@@ -1,0 +1,38 @@
+{
+  "id": 540,
+  "timestamp": "2018-03-14T15:46:25-01:00",
+  "customerId": 7,
+  "items": [
+    {
+      "name": "\"szynka 1kg\"",
+      "quantity": 17,
+      "price": 30.0
+    },
+    {
+      "name": "\"chleb ciemny\"",
+      "quantity": 22,
+      "price": 2.5
+    },
+    {
+      "name": "\"woda gazowana 1.5l\"",
+      "quantity": 16,
+      "price": 2.1
+    },
+    {
+      "name": "\"jajko\"",
+      "quantity": 7,
+      "price": 0.5
+    },
+    {
+      "name": "\"woda gazowana 1.5l\"",
+      "quantity": 22,
+      "price": 2.1
+    },
+    {
+      "name": "\"masło\"",
+      "quantity": 8,
+      "price": 5.0
+    }
+  ],
+  "sum": 688.3000000000001
+}

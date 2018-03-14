@@ -1,0 +1,48 @@
+{
+  "id": 448,
+  "timestamp": "2018-03-14T02:48:42-01:00",
+  "customerId": 15,
+  "items": [
+    {
+      "name": "\"jajko\"",
+      "quantity": 1,
+      "price": 0.5
+    },
+    {
+      "name": "\"woda 1.5l\"",
+      "quantity": 28,
+      "price": 2.0
+    },
+    {
+      "name": "\"masło\"",
+      "quantity": 4,
+      "price": 5.0
+    },
+    {
+      "name": "\"masło\"",
+      "quantity": 25,
+      "price": 5.0
+    },
+    {
+      "name": "\"masło\"",
+      "quantity": 16,
+      "price": 5.0
+    },
+    {
+      "name": "\"mleko 3% 1l\"",
+      "quantity": 10,
+      "price": 2.3
+    },
+    {
+      "name": "\"chleb biały\"",
+      "quantity": 9,
+      "price": 2.2
+    },
+    {
+      "name": "\"mleko 3% 1l\"",
+      "quantity": 17,
+      "price": 2.3
+    }
+  ],
+  "sum": 363.4
+}

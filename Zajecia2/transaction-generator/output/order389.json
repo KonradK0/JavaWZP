@@ -1,0 +1,48 @@
+{
+  "id": 389,
+  "timestamp": "2018-03-14T05:27:08-01:00",
+  "customerId": 6,
+  "items": [
+    {
+      "name": "\"chleb ciemny\"",
+      "quantity": 20,
+      "price": 2.5
+    },
+    {
+      "name": "\"chleb ciemny\"",
+      "quantity": 17,
+      "price": 2.5
+    },
+    {
+      "name": "\"bułeczka\"",
+      "quantity": 10,
+      "price": 1.2
+    },
+    {
+      "name": "\"chleb ciemny\"",
+      "quantity": 17,
+      "price": 2.5
+    },
+    {
+      "name": "\"masło\"",
+      "quantity": 3,
+      "price": 5.0
+    },
+    {
+      "name": "\"jajko\"",
+      "quantity": 13,
+      "price": 0.5
+    },
+    {
+      "name": "\"bułeczka\"",
+      "quantity": 11,
+      "price": 1.2
+    },
+    {
+      "name": "\"bułeczka\"",
+      "quantity": 23,
+      "price": 1.2
+    }
+  ],
+  "sum": 209.29999999999998
+}

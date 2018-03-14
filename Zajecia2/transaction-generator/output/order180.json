@@ -1,0 +1,33 @@
+{
+  "id": 180,
+  "timestamp": "2018-03-14T21:07:26-01:00",
+  "customerId": 4,
+  "items": [
+    {
+      "name": "\"woda gazowana 1.5l\"",
+      "quantity": 11,
+      "price": 2.1
+    },
+    {
+      "name": "\"masło\"",
+      "quantity": 3,
+      "price": 5.0
+    },
+    {
+      "name": "\"woda gazowana 1.5l\"",
+      "quantity": 17,
+      "price": 2.1
+    },
+    {
+      "name": "\"szynka 1kg\"",
+      "quantity": 5,
+      "price": 30.0
+    },
+    {
+      "name": "\"chleb biały\"",
+      "quantity": 16,
+      "price": 2.2
+    }
+  ],
+  "sum": 259.0
+}

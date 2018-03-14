@@ -1,0 +1,38 @@
+{
+  "id": 275,
+  "timestamp": "2018-03-14T20:26:24-01:00",
+  "customerId": 8,
+  "items": [
+    {
+      "name": "\"chleb ciemny\"",
+      "quantity": 19,
+      "price": 2.5
+    },
+    {
+      "name": "\"chleb ciemny\"",
+      "quantity": 27,
+      "price": 2.5
+    },
+    {
+      "name": "\"bułeczka\"",
+      "quantity": 12,
+      "price": 1.2
+    },
+    {
+      "name": "\"jajko\"",
+      "quantity": 8,
+      "price": 0.5
+    },
+    {
+      "name": "\"jajko\"",
+      "quantity": 9,
+      "price": 0.5
+    },
+    {
+      "name": "\"woda 1.5l\"",
+      "quantity": 13,
+      "price": 2.0
+    }
+  ],
+  "sum": 163.9
+}

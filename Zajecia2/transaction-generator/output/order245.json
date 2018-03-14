@@ -1,0 +1,43 @@
+{
+  "id": 245,
+  "timestamp": "2018-03-14T12:01:25-01:00",
+  "customerId": 13,
+  "items": [
+    {
+      "name": "\"mleko 3% 1l\"",
+      "quantity": 23,
+      "price": 2.3
+    },
+    {
+      "name": "\"szynka 1kg\"",
+      "quantity": 5,
+      "price": 30.0
+    },
+    {
+      "name": "\"chleb ciemny\"",
+      "quantity": 29,
+      "price": 2.5
+    },
+    {
+      "name": "\"mleko 3% 1l\"",
+      "quantity": 22,
+      "price": 2.3
+    },
+    {
+      "name": "\"chleb ciemny\"",
+      "quantity": 21,
+      "price": 2.5
+    },
+    {
+      "name": "\"szynka 1kg\"",
+      "quantity": 26,
+      "price": 30.0
+    },
+    {
+      "name": "\"jajko\"",
+      "quantity": 16,
+      "price": 0.5
+    }
+  ],
+  "sum": 1166.5
+}

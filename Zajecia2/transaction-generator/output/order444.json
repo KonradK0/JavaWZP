@@ -1,0 +1,38 @@
+{
+  "id": 444,
+  "timestamp": "2018-03-14T23:14:17-01:00",
+  "customerId": 8,
+  "items": [
+    {
+      "name": "\"woda 1.5l\"",
+      "quantity": 26,
+      "price": 2.0
+    },
+    {
+      "name": "\"bułeczka\"",
+      "quantity": 17,
+      "price": 1.2
+    },
+    {
+      "name": "\"woda gazowana 1.5l\"",
+      "quantity": 5,
+      "price": 2.1
+    },
+    {
+      "name": "\"woda gazowana 1.5l\"",
+      "quantity": 25,
+      "price": 2.1
+    },
+    {
+      "name": "\"woda 1.5l\"",
+      "quantity": 19,
+      "price": 2.0
+    },
+    {
+      "name": "\"mleko 3% 1l\"",
+      "quantity": 10,
+      "price": 2.3
+    }
+  ],
+  "sum": 196.4
+}

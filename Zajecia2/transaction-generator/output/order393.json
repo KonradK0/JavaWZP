@@ -1,0 +1,33 @@
+{
+  "id": 393,
+  "timestamp": "2018-03-14T10:00:15-01:00",
+  "customerId": 16,
+  "items": [
+    {
+      "name": "\"chleb ciemny\"",
+      "quantity": 11,
+      "price": 2.5
+    },
+    {
+      "name": "\"bułeczka\"",
+      "quantity": 23,
+      "price": 1.2
+    },
+    {
+      "name": "\"woda gazowana 1.5l\"",
+      "quantity": 14,
+      "price": 2.1
+    },
+    {
+      "name": "\"jajko\"",
+      "quantity": 28,
+      "price": 0.5
+    },
+    {
+      "name": "\"woda gazowana 1.5l\"",
+      "quantity": 29,
+      "price": 2.1
+    }
+  ],
+  "sum": 159.4
+}

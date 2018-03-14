@@ -1,0 +1,63 @@
+{
+  "id": 238,
+  "timestamp": "2018-03-14T03:44:32-01:00",
+  "customerId": 16,
+  "items": [
+    {
+      "name": "\"bułeczka\"",
+      "quantity": 16,
+      "price": 1.2
+    },
+    {
+      "name": "\"woda 1.5l\"",
+      "quantity": 24,
+      "price": 2.0
+    },
+    {
+      "name": "\"szynka 1kg\"",
+      "quantity": 20,
+      "price": 30.0
+    },
+    {
+      "name": "\"bułeczka\"",
+      "quantity": 19,
+      "price": 1.2
+    },
+    {
+      "name": "\"chleb ciemny\"",
+      "quantity": 24,
+      "price": 2.5
+    },
+    {
+      "name": "\"chleb ciemny\"",
+      "quantity": 10,
+      "price": 2.5
+    },
+    {
+      "name": "\"bułeczka\"",
+      "quantity": 14,
+      "price": 1.2
+    },
+    {
+      "name": "\"masło\"",
+      "quantity": 11,
+      "price": 5.0
+    },
+    {
+      "name": "\"chleb ciemny\"",
+      "quantity": 16,
+      "price": 2.5
+    },
+    {
+      "name": "\"chleb biały\"",
+      "quantity": 17,
+      "price": 2.2
+    },
+    {
+      "name": "\"chleb ciemny\"",
+      "quantity": 1,
+      "price": 2.5
+    }
+  ],
+  "sum": 926.6999999999999
+}

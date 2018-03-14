@@ -1,0 +1,58 @@
+{
+  "id": 249,
+  "timestamp": "2018-03-14T03:48:49-01:00",
+  "customerId": 16,
+  "items": [
+    {
+      "name": "\"jajko\"",
+      "quantity": 23,
+      "price": 0.5
+    },
+    {
+      "name": "\"mleko 3% 1l\"",
+      "quantity": 25,
+      "price": 2.3
+    },
+    {
+      "name": "\"chleb biały\"",
+      "quantity": 27,
+      "price": 2.2
+    },
+    {
+      "name": "\"woda 1.5l\"",
+      "quantity": 28,
+      "price": 2.0
+    },
+    {
+      "name": "\"masło\"",
+      "quantity": 22,
+      "price": 5.0
+    },
+    {
+      "name": "\"masło\"",
+      "quantity": 24,
+      "price": 5.0
+    },
+    {
+      "name": "\"szynka 1kg\"",
+      "quantity": 13,
+      "price": 30.0
+    },
+    {
+      "name": "\"chleb ciemny\"",
+      "quantity": 20,
+      "price": 2.5
+    },
+    {
+      "name": "\"bułeczka\"",
+      "quantity": 19,
+      "price": 1.2
+    },
+    {
+      "name": "\"chleb biały\"",
+      "quantity": 29,
+      "price": 2.2
+    }
+  ],
+  "sum": 940.9999999999999
+}

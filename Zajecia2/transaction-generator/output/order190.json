@@ -1,0 +1,33 @@
+{
+  "id": 190,
+  "timestamp": "2018-03-14T04:19:02-01:00",
+  "customerId": 4,
+  "items": [
+    {
+      "name": "\"bułeczka\"",
+      "quantity": 8,
+      "price": 1.2
+    },
+    {
+      "name": "\"szynka 1kg\"",
+      "quantity": 28,
+      "price": 30.0
+    },
+    {
+      "name": "\"jajko\"",
+      "quantity": 28,
+      "price": 0.5
+    },
+    {
+      "name": "\"chleb biały\"",
+      "quantity": 18,
+      "price": 2.2
+    },
+    {
+      "name": "\"chleb ciemny\"",
+      "quantity": 18,
+      "price": 2.5
+    }
+  ],
+  "sum": 948.2
+}

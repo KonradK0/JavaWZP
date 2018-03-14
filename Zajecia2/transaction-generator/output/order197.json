@@ -1,0 +1,33 @@
+{
+  "id": 197,
+  "timestamp": "2018-03-14T00:32:04-01:00",
+  "customerId": 17,
+  "items": [
+    {
+      "name": "\"chleb biały\"",
+      "quantity": 3,
+      "price": 2.2
+    },
+    {
+      "name": "\"masło\"",
+      "quantity": 29,
+      "price": 5.0
+    },
+    {
+      "name": "\"masło\"",
+      "quantity": 27,
+      "price": 5.0
+    },
+    {
+      "name": "\"masło\"",
+      "quantity": 19,
+      "price": 5.0
+    },
+    {
+      "name": "\"masło\"",
+      "quantity": 11,
+      "price": 5.0
+    }
+  ],
+  "sum": 436.6
+}

@@ -1,0 +1,78 @@
+{
+  "id": 398,
+  "timestamp": "2018-03-14T21:33:28-01:00",
+  "customerId": 8,
+  "items": [
+    {
+      "name": "\"chleb biały\"",
+      "quantity": 19,
+      "price": 2.2
+    },
+    {
+      "name": "\"chleb biały\"",
+      "quantity": 27,
+      "price": 2.2
+    },
+    {
+      "name": "\"chleb biały\"",
+      "quantity": 24,
+      "price": 2.2
+    },
+    {
+      "name": "\"jajko\"",
+      "quantity": 10,
+      "price": 0.5
+    },
+    {
+      "name": "\"masło\"",
+      "quantity": 2,
+      "price": 5.0
+    },
+    {
+      "name": "\"masło\"",
+      "quantity": 24,
+      "price": 5.0
+    },
+    {
+      "name": "\"chleb ciemny\"",
+      "quantity": 29,
+      "price": 2.5
+    },
+    {
+      "name": "\"jajko\"",
+      "quantity": 19,
+      "price": 0.5
+    },
+    {
+      "name": "\"jajko\"",
+      "quantity": 16,
+      "price": 0.5
+    },
+    {
+      "name": "\"chleb ciemny\"",
+      "quantity": 13,
+      "price": 2.5
+    },
+    {
+      "name": "\"chleb biały\"",
+      "quantity": 8,
+      "price": 2.2
+    },
+    {
+      "name": "\"chleb biały\"",
+      "quantity": 23,
+      "price": 2.2
+    },
+    {
+      "name": "\"woda 1.5l\"",
+      "quantity": 3,
+      "price": 2.0
+    },
+    {
+      "name": "\"jajko\"",
+      "quantity": 15,
+      "price": 0.5
+    }
+  ],
+  "sum": 493.20000000000005
+}

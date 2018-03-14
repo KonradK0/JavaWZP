@@ -1,0 +1,33 @@
+{
+  "id": 432,
+  "timestamp": "2018-03-14T16:12:48-01:00",
+  "customerId": 18,
+  "items": [
+    {
+      "name": "\"masło\"",
+      "quantity": 29,
+      "price": 5.0
+    },
+    {
+      "name": "\"bułeczka\"",
+      "quantity": 17,
+      "price": 1.2
+    },
+    {
+      "name": "\"szynka 1kg\"",
+      "quantity": 10,
+      "price": 30.0
+    },
+    {
+      "name": "\"woda gazowana 1.5l\"",
+      "quantity": 21,
+      "price": 2.1
+    },
+    {
+      "name": "\"mleko 3% 1l\"",
+      "quantity": 16,
+      "price": 2.3
+    }
+  ],
+  "sum": 546.3
+}

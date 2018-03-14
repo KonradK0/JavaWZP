@@ -1,0 +1,53 @@
+{
+  "id": 273,
+  "timestamp": "2018-03-14T19:46:49-01:00",
+  "customerId": 14,
+  "items": [
+    {
+      "name": "\"bułeczka\"",
+      "quantity": 6,
+      "price": 1.2
+    },
+    {
+      "name": "\"woda gazowana 1.5l\"",
+      "quantity": 27,
+      "price": 2.1
+    },
+    {
+      "name": "\"woda gazowana 1.5l\"",
+      "quantity": 4,
+      "price": 2.1
+    },
+    {
+      "name": "\"chleb ciemny\"",
+      "quantity": 14,
+      "price": 2.5
+    },
+    {
+      "name": "\"szynka 1kg\"",
+      "quantity": 15,
+      "price": 30.0
+    },
+    {
+      "name": "\"szynka 1kg\"",
+      "quantity": 7,
+      "price": 30.0
+    },
+    {
+      "name": "\"woda gazowana 1.5l\"",
+      "quantity": 19,
+      "price": 2.1
+    },
+    {
+      "name": "\"masło\"",
+      "quantity": 16,
+      "price": 5.0
+    },
+    {
+      "name": "\"woda 1.5l\"",
+      "quantity": 8,
+      "price": 2.0
+    }
+  ],
+  "sum": 903.1999999999999
+}

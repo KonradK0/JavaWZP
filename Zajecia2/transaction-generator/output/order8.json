@@ -1,0 +1,33 @@
+{
+  "id": 8,
+  "timestamp": "2018-03-14T10:51:19-01:00",
+  "customerId": 13,
+  "items": [
+    {
+      "name": "\"chleb ciemny\"",
+      "quantity": 13,
+      "price": 2.5
+    },
+    {
+      "name": "\"szynka 1kg\"",
+      "quantity": 28,
+      "price": 30.0
+    },
+    {
+      "name": "\"woda gazowana 1.5l\"",
+      "quantity": 16,
+      "price": 2.1
+    },
+    {
+      "name": "\"chleb biały\"",
+      "quantity": 18,
+      "price": 2.2
+    },
+    {
+      "name": "\"bułeczka\"",
+      "quantity": 24,
+      "price": 1.2
+    }
+  ],
+  "sum": 974.5
+}

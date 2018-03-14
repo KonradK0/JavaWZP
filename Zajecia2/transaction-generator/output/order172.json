@@ -1,0 +1,33 @@
+{
+  "id": 172,
+  "timestamp": "2018-03-14T13:10:37-01:00",
+  "customerId": 9,
+  "items": [
+    {
+      "name": "\"mleko 3% 1l\"",
+      "quantity": 5,
+      "price": 2.3
+    },
+    {
+      "name": "\"bułeczka\"",
+      "quantity": 24,
+      "price": 1.2
+    },
+    {
+      "name": "\"masło\"",
+      "quantity": 27,
+      "price": 5.0
+    },
+    {
+      "name": "\"szynka 1kg\"",
+      "quantity": 27,
+      "price": 30.0
+    },
+    {
+      "name": "\"masło\"",
+      "quantity": 16,
+      "price": 5.0
+    }
+  ],
+  "sum": 1065.3
+}

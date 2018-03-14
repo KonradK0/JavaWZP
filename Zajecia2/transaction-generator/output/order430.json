@@ -1,0 +1,53 @@
+{
+  "id": 430,
+  "timestamp": "2018-03-14T20:16:18-01:00",
+  "customerId": 16,
+  "items": [
+    {
+      "name": "\"mleko 3% 1l\"",
+      "quantity": 26,
+      "price": 2.3
+    },
+    {
+      "name": "\"bułeczka\"",
+      "quantity": 23,
+      "price": 1.2
+    },
+    {
+      "name": "\"masło\"",
+      "quantity": 14,
+      "price": 5.0
+    },
+    {
+      "name": "\"masło\"",
+      "quantity": 13,
+      "price": 5.0
+    },
+    {
+      "name": "\"masło\"",
+      "quantity": 26,
+      "price": 5.0
+    },
+    {
+      "name": "\"jajko\"",
+      "quantity": 11,
+      "price": 0.5
+    },
+    {
+      "name": "\"bułeczka\"",
+      "quantity": 14,
+      "price": 1.2
+    },
+    {
+      "name": "\"szynka 1kg\"",
+      "quantity": 24,
+      "price": 30.0
+    },
+    {
+      "name": "\"woda gazowana 1.5l\"",
+      "quantity": 19,
+      "price": 2.1
+    }
+  ],
+  "sum": 1134.6000000000001
+}

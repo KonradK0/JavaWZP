@@ -1,0 +1,78 @@
+{
+  "id": 446,
+  "timestamp": "2018-03-14T01:34:17-01:00",
+  "customerId": 5,
+  "items": [
+    {
+      "name": "\"bułeczka\"",
+      "quantity": 14,
+      "price": 1.2
+    },
+    {
+      "name": "\"mleko 3% 1l\"",
+      "quantity": 20,
+      "price": 2.3
+    },
+    {
+      "name": "\"woda gazowana 1.5l\"",
+      "quantity": 3,
+      "price": 2.1
+    },
+    {
+      "name": "\"jajko\"",
+      "quantity": 1,
+      "price": 0.5
+    },
+    {
+      "name": "\"bułeczka\"",
+      "quantity": 27,
+      "price": 1.2
+    },
+    {
+      "name": "\"mleko 3% 1l\"",
+      "quantity": 13,
+      "price": 2.3
+    },
+    {
+      "name": "\"jajko\"",
+      "quantity": 22,
+      "price": 0.5
+    },
+    {
+      "name": "\"masło\"",
+      "quantity": 21,
+      "price": 5.0
+    },
+    {
+      "name": "\"woda gazowana 1.5l\"",
+      "quantity": 14,
+      "price": 2.1
+    },
+    {
+      "name": "\"chleb ciemny\"",
+      "quantity": 4,
+      "price": 2.5
+    },
+    {
+      "name": "\"woda gazowana 1.5l\"",
+      "quantity": 12,
+      "price": 2.1
+    },
+    {
+      "name": "\"woda 1.5l\"",
+      "quantity": 6,
+      "price": 2.0
+    },
+    {
+      "name": "\"jajko\"",
+      "quantity": 5,
+      "price": 0.5
+    },
+    {
+      "name": "\"woda 1.5l\"",
+      "quantity": 20,
+      "price": 2.0
+    }
+  ],
+  "sum": 367.0
+}

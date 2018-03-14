@@ -1,0 +1,53 @@
+{
+  "id": 431,
+  "timestamp": "2018-03-14T22:20:38-01:00",
+  "customerId": 16,
+  "items": [
+    {
+      "name": "\"masło\"",
+      "quantity": 15,
+      "price": 5.0
+    },
+    {
+      "name": "\"chleb biały\"",
+      "quantity": 26,
+      "price": 2.2
+    },
+    {
+      "name": "\"masło\"",
+      "quantity": 29,
+      "price": 5.0
+    },
+    {
+      "name": "\"chleb ciemny\"",
+      "quantity": 23,
+      "price": 2.5
+    },
+    {
+      "name": "\"mleko 3% 1l\"",
+      "quantity": 6,
+      "price": 2.3
+    },
+    {
+      "name": "\"masło\"",
+      "quantity": 25,
+      "price": 5.0
+    },
+    {
+      "name": "\"mleko 3% 1l\"",
+      "quantity": 18,
+      "price": 2.3
+    },
+    {
+      "name": "\"chleb ciemny\"",
+      "quantity": 18,
+      "price": 2.5
+    },
+    {
+      "name": "\"szynka 1kg\"",
+      "quantity": 4,
+      "price": 30.0
+    }
+  ],
+  "sum": 679.9
+}

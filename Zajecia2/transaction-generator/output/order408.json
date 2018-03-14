@@ -1,0 +1,33 @@
+{
+  "id": 408,
+  "timestamp": "2018-03-14T00:11:30-01:00",
+  "customerId": 16,
+  "items": [
+    {
+      "name": "\"bułeczka\"",
+      "quantity": 29,
+      "price": 1.2
+    },
+    {
+      "name": "\"szynka 1kg\"",
+      "quantity": 10,
+      "price": 30.0
+    },
+    {
+      "name": "\"jajko\"",
+      "quantity": 18,
+      "price": 0.5
+    },
+    {
+      "name": "\"woda 1.5l\"",
+      "quantity": 13,
+      "price": 2.0
+    },
+    {
+      "name": "\"woda 1.5l\"",
+      "quantity": 13,
+      "price": 2.0
+    }
+  ],
+  "sum": 395.8
+}

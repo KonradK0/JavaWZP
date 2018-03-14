@@ -1,0 +1,38 @@
+{
+  "id": 544,
+  "timestamp": "2018-03-14T11:46:39-01:00",
+  "customerId": 5,
+  "items": [
+    {
+      "name": "\"szynka 1kg\"",
+      "quantity": 6,
+      "price": 30.0
+    },
+    {
+      "name": "\"masło\"",
+      "quantity": 22,
+      "price": 5.0
+    },
+    {
+      "name": "\"jajko\"",
+      "quantity": 16,
+      "price": 0.5
+    },
+    {
+      "name": "\"szynka 1kg\"",
+      "quantity": 1,
+      "price": 30.0
+    },
+    {
+      "name": "\"woda gazowana 1.5l\"",
+      "quantity": 4,
+      "price": 2.1
+    },
+    {
+      "name": "\"mleko 3% 1l\"",
+      "quantity": 9,
+      "price": 2.3
+    }
+  ],
+  "sum": 357.09999999999997
+}

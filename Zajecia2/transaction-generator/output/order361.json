@@ -1,0 +1,43 @@
+{
+  "id": 361,
+  "timestamp": "2018-03-14T10:04:51-01:00",
+  "customerId": 3,
+  "items": [
+    {
+      "name": "\"mleko 3% 1l\"",
+      "quantity": 15,
+      "price": 2.3
+    },
+    {
+      "name": "\"masło\"",
+      "quantity": 22,
+      "price": 5.0
+    },
+    {
+      "name": "\"chleb biały\"",
+      "quantity": 13,
+      "price": 2.2
+    },
+    {
+      "name": "\"woda gazowana 1.5l\"",
+      "quantity": 5,
+      "price": 2.1
+    },
+    {
+      "name": "\"woda gazowana 1.5l\"",
+      "quantity": 1,
+      "price": 2.1
+    },
+    {
+      "name": "\"masło\"",
+      "quantity": 20,
+      "price": 5.0
+    },
+    {
+      "name": "\"woda gazowana 1.5l\"",
+      "quantity": 18,
+      "price": 2.1
+    }
+  ],
+  "sum": 323.5
+}

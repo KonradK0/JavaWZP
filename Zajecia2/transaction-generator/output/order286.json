@@ -1,0 +1,33 @@
+{
+  "id": 286,
+  "timestamp": "2018-03-14T03:58:21-01:00",
+  "customerId": 10,
+  "items": [
+    {
+      "name": "\"masło\"",
+      "quantity": 29,
+      "price": 5.0
+    },
+    {
+      "name": "\"bułeczka\"",
+      "quantity": 15,
+      "price": 1.2
+    },
+    {
+      "name": "\"jajko\"",
+      "quantity": 16,
+      "price": 0.5
+    },
+    {
+      "name": "\"bułeczka\"",
+      "quantity": 11,
+      "price": 1.2
+    },
+    {
+      "name": "\"woda gazowana 1.5l\"",
+      "quantity": 12,
+      "price": 2.1
+    }
+  ],
+  "sum": 209.39999999999998
+}

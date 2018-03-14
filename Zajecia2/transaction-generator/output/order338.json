@@ -1,0 +1,33 @@
+{
+  "id": 338,
+  "timestamp": "2018-03-14T10:55:30-01:00",
+  "customerId": 5,
+  "items": [
+    {
+      "name": "\"szynka 1kg\"",
+      "quantity": 14,
+      "price": 30.0
+    },
+    {
+      "name": "\"woda 1.5l\"",
+      "quantity": 13,
+      "price": 2.0
+    },
+    {
+      "name": "\"chleb ciemny\"",
+      "quantity": 17,
+      "price": 2.5
+    },
+    {
+      "name": "\"chleb ciemny\"",
+      "quantity": 28,
+      "price": 2.5
+    },
+    {
+      "name": "\"chleb ciemny\"",
+      "quantity": 12,
+      "price": 2.5
+    }
+  ],
+  "sum": 588.5
+}

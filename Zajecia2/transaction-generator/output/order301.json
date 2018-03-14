@@ -1,0 +1,33 @@
+{
+  "id": 301,
+  "timestamp": "2018-03-14T10:03:51-01:00",
+  "customerId": 14,
+  "items": [
+    {
+      "name": "\"bułeczka\"",
+      "quantity": 15,
+      "price": 1.2
+    },
+    {
+      "name": "\"mleko 3% 1l\"",
+      "quantity": 28,
+      "price": 2.3
+    },
+    {
+      "name": "\"woda 1.5l\"",
+      "quantity": 7,
+      "price": 2.0
+    },
+    {
+      "name": "\"woda gazowana 1.5l\"",
+      "quantity": 20,
+      "price": 2.1
+    },
+    {
+      "name": "\"masło\"",
+      "quantity": 5,
+      "price": 5.0
+    }
+  ],
+  "sum": 163.39999999999998
+}

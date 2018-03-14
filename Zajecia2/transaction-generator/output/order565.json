@@ -1,0 +1,43 @@
+{
+  "id": 565,
+  "timestamp": "2018-03-14T22:30:10-01:00",
+  "customerId": 6,
+  "items": [
+    {
+      "name": "\"jajko\"",
+      "quantity": 9,
+      "price": 0.5
+    },
+    {
+      "name": "\"chleb biały\"",
+      "quantity": 22,
+      "price": 2.2
+    },
+    {
+      "name": "\"szynka 1kg\"",
+      "quantity": 5,
+      "price": 30.0
+    },
+    {
+      "name": "\"jajko\"",
+      "quantity": 23,
+      "price": 0.5
+    },
+    {
+      "name": "\"mleko 3% 1l\"",
+      "quantity": 29,
+      "price": 2.3
+    },
+    {
+      "name": "\"mleko 3% 1l\"",
+      "quantity": 27,
+      "price": 2.3
+    },
+    {
+      "name": "\"woda 1.5l\"",
+      "quantity": 15,
+      "price": 2.0
+    }
+  ],
+  "sum": 373.20000000000005
+}

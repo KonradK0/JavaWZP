@@ -1,0 +1,38 @@
+{
+  "id": 533,
+  "timestamp": "2018-03-14T07:46:32-01:00",
+  "customerId": 7,
+  "items": [
+    {
+      "name": "\"mleko 3% 1l\"",
+      "quantity": 1,
+      "price": 2.3
+    },
+    {
+      "name": "\"masło\"",
+      "quantity": 15,
+      "price": 5.0
+    },
+    {
+      "name": "\"jajko\"",
+      "quantity": 14,
+      "price": 0.5
+    },
+    {
+      "name": "\"bułeczka\"",
+      "quantity": 25,
+      "price": 1.2
+    },
+    {
+      "name": "\"bułeczka\"",
+      "quantity": 19,
+      "price": 1.2
+    },
+    {
+      "name": "\"chleb biały\"",
+      "quantity": 23,
+      "price": 2.2
+    }
+  ],
+  "sum": 187.7
+}

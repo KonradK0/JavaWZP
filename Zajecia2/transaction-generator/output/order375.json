@@ -1,0 +1,33 @@
+{
+  "id": 375,
+  "timestamp": "2018-03-14T08:28:28-01:00",
+  "customerId": 19,
+  "items": [
+    {
+      "name": "\"mleko 3% 1l\"",
+      "quantity": 20,
+      "price": 2.3
+    },
+    {
+      "name": "\"masło\"",
+      "quantity": 19,
+      "price": 5.0
+    },
+    {
+      "name": "\"jajko\"",
+      "quantity": 2,
+      "price": 0.5
+    },
+    {
+      "name": "\"woda 1.5l\"",
+      "quantity": 21,
+      "price": 2.0
+    },
+    {
+      "name": "\"chleb ciemny\"",
+      "quantity": 5,
+      "price": 2.5
+    }
+  ],
+  "sum": 196.5
+}

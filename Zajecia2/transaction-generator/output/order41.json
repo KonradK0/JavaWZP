@@ -1,0 +1,48 @@
+{
+  "id": 41,
+  "timestamp": "2018-03-14T21:27:10-01:00",
+  "customerId": 3,
+  "items": [
+    {
+      "name": "\"woda 1.5l\"",
+      "quantity": 19,
+      "price": 2.0
+    },
+    {
+      "name": "\"woda gazowana 1.5l\"",
+      "quantity": 3,
+      "price": 2.1
+    },
+    {
+      "name": "\"woda gazowana 1.5l\"",
+      "quantity": 17,
+      "price": 2.1
+    },
+    {
+      "name": "\"woda gazowana 1.5l\"",
+      "quantity": 24,
+      "price": 2.1
+    },
+    {
+      "name": "\"jajko\"",
+      "quantity": 13,
+      "price": 0.5
+    },
+    {
+      "name": "\"chleb biały\"",
+      "quantity": 16,
+      "price": 2.2
+    },
+    {
+      "name": "\"chleb biały\"",
+      "quantity": 7,
+      "price": 2.2
+    },
+    {
+      "name": "\"bułeczka\"",
+      "quantity": 4,
+      "price": 1.2
+    }
+  ],
+  "sum": 192.30000000000004
+}

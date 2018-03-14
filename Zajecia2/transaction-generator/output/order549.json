@@ -1,0 +1,33 @@
+{
+  "id": 549,
+  "timestamp": "2018-03-14T13:48:12-01:00",
+  "customerId": 11,
+  "items": [
+    {
+      "name": "\"woda gazowana 1.5l\"",
+      "quantity": 25,
+      "price": 2.1
+    },
+    {
+      "name": "\"szynka 1kg\"",
+      "quantity": 17,
+      "price": 30.0
+    },
+    {
+      "name": "\"bułeczka\"",
+      "quantity": 8,
+      "price": 1.2
+    },
+    {
+      "name": "\"woda gazowana 1.5l\"",
+      "quantity": 10,
+      "price": 2.1
+    },
+    {
+      "name": "\"jajko\"",
+      "quantity": 25,
+      "price": 0.5
+    }
+  ],
+  "sum": 605.6
+}

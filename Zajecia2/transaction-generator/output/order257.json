@@ -1,0 +1,73 @@
+{
+  "id": 257,
+  "timestamp": "2018-03-14T21:25:10-01:00",
+  "customerId": 9,
+  "items": [
+    {
+      "name": "\"chleb ciemny\"",
+      "quantity": 16,
+      "price": 2.5
+    },
+    {
+      "name": "\"jajko\"",
+      "quantity": 22,
+      "price": 0.5
+    },
+    {
+      "name": "\"masło\"",
+      "quantity": 28,
+      "price": 5.0
+    },
+    {
+      "name": "\"chleb ciemny\"",
+      "quantity": 5,
+      "price": 2.5
+    },
+    {
+      "name": "\"mleko 3% 1l\"",
+      "quantity": 5,
+      "price": 2.3
+    },
+    {
+      "name": "\"chleb ciemny\"",
+      "quantity": 26,
+      "price": 2.5
+    },
+    {
+      "name": "\"masło\"",
+      "quantity": 14,
+      "price": 5.0
+    },
+    {
+      "name": "\"jajko\"",
+      "quantity": 13,
+      "price": 0.5
+    },
+    {
+      "name": "\"chleb ciemny\"",
+      "quantity": 7,
+      "price": 2.5
+    },
+    {
+      "name": "\"bułeczka\"",
+      "quantity": 15,
+      "price": 1.2
+    },
+    {
+      "name": "\"bułeczka\"",
+      "quantity": 13,
+      "price": 1.2
+    },
+    {
+      "name": "\"jajko\"",
+      "quantity": 10,
+      "price": 0.5
+    },
+    {
+      "name": "\"woda gazowana 1.5l\"",
+      "quantity": 29,
+      "price": 2.1
+    }
+  ],
+  "sum": 473.5
+}

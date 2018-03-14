@@ -27,7 +27,7 @@ public class SellingServiceTest {
     @Test
     public void notSell() {
         //given
-        SellingService uut = new SellingService(persistenceLayer);
+        SellingService uut = new SellingService(persistenceLayer, discountsConfigWrapper);
         Mockito.when(persistenceLayer.saveCustomer(Mockito.any())).thenReturn(Boolean.TRUE);
         Mockito.when(persistenceLayer.getCustomerById(Mockito.anyInt())).thenReturn(new Customer(1, "DasCustomer", "Kraków, Łojasiewicza"));
         Mockito.when(persistenceLayer.getItemByName(Mockito.any())).thenReturn(new Item("i", new BigDecimal(3)));
@@ -36,11 +36,9 @@ public class SellingServiceTest {
 
         Item i = persistenceLayer.getItemByName("bla");
         Customer c = persistenceLayer.getCustomerById(1);
-        BigDecimal discount = discountsConfigWrapper.getDiscountForItemWrapper(i,c);
-        Boolean isWeekendPromotion = discountsConfigWrapper.isWeekendPromotionWrapper();
 
         //when
-        boolean sold = uut.sell(i, 7, c, discount, isWeekendPromotion);
+        boolean sold = uut.sell(i, 7, c);
 
         //then
         Assert.assertFalse(sold);
@@ -48,9 +46,9 @@ public class SellingServiceTest {
     }
 
     @Test
-    public void sell() {
+    public void sellWithoutPromotion() {
         //given
-        SellingService uut = new SellingService(persistenceLayer);
+        SellingService uut = new SellingService(persistenceLayer, discountsConfigWrapper);
         Mockito.when(persistenceLayer.saveCustomer(Mockito.any())).thenReturn(Boolean.TRUE);
         Mockito.when(persistenceLayer.getCustomerById(Mockito.anyInt())).thenReturn(new Customer(1, "DasCustomer", "Kraków, Łojasiewicza"));
         Mockito.when(persistenceLayer.getItemByName(Mockito.any())).thenReturn(new Item("i", new BigDecimal(3)));
@@ -60,11 +58,8 @@ public class SellingServiceTest {
         Item i = persistenceLayer.getItemByName("bla");
         Customer c = persistenceLayer.getCustomerById(1);
 
-        BigDecimal discount = discountsConfigWrapper.getDiscountForItemWrapper(i,c);
-        Boolean isWeekendPromotion = discountsConfigWrapper.isWeekendPromotionWrapper();
-
         //when
-        boolean sold = uut.sell(i, 1, c, discount, isWeekendPromotion);
+        boolean sold = uut.sell(i, 1, c);
 
         //then
         Assert.assertFalse(sold);
@@ -72,10 +67,31 @@ public class SellingServiceTest {
     }
 
     @Test
+    public void sellWithPromotion() {
+        //given
+        SellingService uut = new SellingService(persistenceLayer, discountsConfigWrapper);
+        Mockito.when(persistenceLayer.saveCustomer(Mockito.any())).thenReturn(Boolean.TRUE);
+        Mockito.when(persistenceLayer.getCustomerById(Mockito.anyInt())).thenReturn(new Customer(1, "DasCustomer", "Kraków, Łojasiewicza"));
+        Mockito.when(persistenceLayer.getItemByName(Mockito.any())).thenReturn(new Item("i", new BigDecimal(8)));
+        Mockito.when(discountsConfigWrapper.getDiscountForItemWrapper(Mockito.any(), Mockito.any())).thenReturn(BigDecimal.ZERO);
+        Mockito.when(discountsConfigWrapper.isWeekendPromotionWrapper()).thenReturn(Boolean.TRUE);
+
+        Item i = persistenceLayer.getItemByName("bla");
+        Customer c = persistenceLayer.getCustomerById(1);
+
+        //when
+        boolean sold = uut.sell(i, 1, c);
+
+        //then
+        Assert.assertFalse(sold);
+        Assert.assertEquals(BigDecimal.valueOf(5), uut.moneyService.getMoney(c));
+    }
+
+    @Test
 //    @PrepareForTest(DiscountsConfig.class)
     public void sellALot() {
         //given
-        SellingService uut = new SellingService(persistenceLayer);
+        SellingService uut = new SellingService(persistenceLayer, discountsConfigWrapper);
         Mockito.when(persistenceLayer.saveCustomer(Mockito.any())).thenReturn(Boolean.TRUE);
         Mockito.when(persistenceLayer.getCustomerById(Mockito.anyInt())).thenReturn(new Customer(1, "DasCustomer", "Kraków, Łojasiewicza"));
         Mockito.when(persistenceLayer.getItemByName(Mockito.any())).thenReturn(new Item("i", new BigDecimal(3)));
@@ -84,14 +100,12 @@ public class SellingServiceTest {
 
         Customer c = persistenceLayer.getCustomerById(1);
         Item i = persistenceLayer.getItemByName("bla");
-        BigDecimal discount = discountsConfigWrapper.getDiscountForItemWrapper(i,c);
-        Boolean isWeekendPromotion = discountsConfigWrapper.isWeekendPromotionWrapper();
 
         uut.moneyService.addMoney(c, new BigDecimal(990));
 
 
         //when
-        boolean sold = uut.sell(i, 10, c, discount, isWeekendPromotion);
+        boolean sold = uut.sell(i, 10, c);
 
         //then
         Assert.assertFalse(sold);
