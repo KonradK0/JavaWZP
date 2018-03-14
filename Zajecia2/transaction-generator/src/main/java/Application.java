@@ -5,10 +5,7 @@ import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.nio.file.FileAlreadyExistsException;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
+import java.nio.file.*;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
@@ -21,16 +18,16 @@ public class Application {
 
         List<String[]> nameValueList = readInputFile(transactionGenerator.getFileName());
 
-        Path outDir = Paths.get(transactionGenerator.getOutDir());
+        String outDir = transactionGenerator.getOutDir();
         createOutDir(outDir);
 
         long eventsCount = transactionGenerator.generateNumberOfEvents();
         for (int i = 0; i < eventsCount; i++) {
-            saveJsonFile(Paths.get(outDir.toString(), "order" + i + ".json"), transactionGenerator, nameValueList, i);
+            saveJsonFile(Paths.get(outDir, "order" + i + ".json"), transactionGenerator, nameValueList, i);
         }
     }
 
-    private static List<String[]> readInputFile(String fileName){
+    public static List<String[]> readInputFile(String fileName){
         Path sourceFile = Paths.get("src", "main", "resources", fileName);
         try (BufferedReader br = Files.newBufferedReader(sourceFile)) {
             return br.lines().skip(1).map(s -> s.split(",")).collect(Collectors.toList());
@@ -40,19 +37,19 @@ public class Application {
         return new ArrayList<>();
     }
 
-    private static void createOutDir(Path outDir){
+    public static void createOutDir(String outDir){
         try {
-            Files.createDirectory(outDir);
+            Files.createDirectory(Paths.get(outDir));
         } catch (FileAlreadyExistsException e) {
             System.out.println("This folder already exists");
-        } catch (FileNotFoundException e) {
+        } catch (NoSuchFileException | FileNotFoundException e) {
             System.out.println("This path is incorrect");
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
 
-    private static void saveJsonFile(Path outPath, TransactionGenerator transactionGenerator, List <String[]> nameValueList, int index){
+    public static void saveJsonFile(Path outPath, TransactionGenerator transactionGenerator, List <String[]> nameValueList, int index){
         try (BufferedWriter writer = Files.newBufferedWriter(outPath)) {
             writer.write(createJson(transactionGenerator, nameValueList, index));
         } catch (IOException e) {
@@ -60,7 +57,7 @@ public class Application {
         }
     }
 
-    private static String createJson(TransactionGenerator transactionGenerator, List<String[]> nameValueList, int id) {
+    public static String createJson(TransactionGenerator transactionGenerator, List<String[]> nameValueList, int id) {
         String timestamp = transactionGenerator.generateDate();
         long customerId = transactionGenerator.generateId();
         long itemsCount = transactionGenerator.generateNumberOfItems();

@@ -15,24 +15,4 @@ public class JsonObject implements Serializable {
         this.items = items;
         this.sum = sum;
     }
-
-    public long getId() {
-        return id;
-    }
-
-    public String getTimestamp() {
-        return timestamp;
-    }
-
-    public long getCustomerId() {
-        return customerId;
-    }
-
-    public ArrayList<ItemOnList> getItems() {
-        return items;
-    }
-
-    public double getSum() {
-        return sum;
-    }
 }

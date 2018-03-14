@@ -21,6 +21,10 @@ public class InputParser {
     Options options = new Options();
     CommandLine line;
 
+    //Default constructor only used in tests
+    public InputParser() {
+
+    }
 
     private InputParser(String[] args) {
         buildOptions();
