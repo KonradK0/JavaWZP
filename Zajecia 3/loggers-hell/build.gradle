@@ -12,7 +12,24 @@ repositories {
 
 dependencies {
     compile 'ch.qos.logback:logback-classic:1.2.3'
-    compile group: 'com.external', name: 'Payments', version: '1.0-SNAPSHOT'
-    compile group: 'com.internal', name: 'Tools', version: '1.0-SNAPSHOT'
+    compile group: 'org.slf4j', name: 'log4j-over-slf4j', version: '1.7.25'
+    compile group: 'org.apache.logging.log4j', name: 'log4j-to-slf4j', version: '2.10.0'
+    compile ('com.external:Payments:1.0-SNAPSHOT'){
+        exclude group: 'org.apache.logging.log4j'
+    }
+    compile ('com.internal:Tools:1.0-SNAPSHOT'){
+        exclude group: 'log4j'
+    }
+
     testCompile group: 'junit', name: 'junit', version: '4.12'
+}
+
+jar {
+    manifest {
+        attributes "Main-Class": "Application"
+    }
+
+    from {
+        configurations.compile.collect { it.isDirectory() ? it : zipTree(it) }
+    }
 }
