@@ -1,6 +1,6 @@
 plugins {
     id "java"
-    id "groovy"
+    id 'com.github.johnrengelman.shadow' version '2.0.2'
     id "com.palantir.jacoco-coverage" version "0.4.0"
     id "maven-publish"
 }
@@ -13,6 +13,15 @@ sourceCompatibility = 1.8
 
 repositories {
     mavenCentral()
+}
+
+shadowJar {
+    baseName = 'Transaction_generator'
+    classifier = null
+    version = null
+    manifest {
+        attributes "Main-Class": "MainClass"
+    }
 }
 
 publishing {

@@ -39,14 +39,14 @@ import java.util.stream.Collectors;
 
     public static void createOutDir(String outDir){
         try {
-<span class="nc" id="L42">            Files.createDirectory(Paths.get(outDir));</span>
+<span class="fc" id="L42">            Files.createDirectory(Paths.get(outDir));</span>
 <span class="fc" id="L43">        } catch (FileAlreadyExistsException e) {</span>
 <span class="fc" id="L44">            System.out.println(&quot;This folder already exists&quot;);</span>
 <span class="fc" id="L45">        } catch (NoSuchFileException | FileNotFoundException e) {</span>
 <span class="fc" id="L46">            System.out.println(&quot;This path is incorrect&quot;);</span>
 <span class="nc" id="L47">        } catch (IOException e) {</span>
 <span class="nc" id="L48">            e.printStackTrace();</span>
-<span class="pc" id="L49">        }</span>
+<span class="fc" id="L49">        }</span>
 <span class="fc" id="L50">    }</span>
 
     public static void saveJsonFile(Path outPath, TransactionGenerator transactionGenerator, List &lt;String[]&gt; nameValueList, int index){
