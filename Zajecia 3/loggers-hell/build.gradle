@@ -1,0 +1,18 @@
+group 'konrad'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+    mavenLocal()
+}
+
+dependencies {
+    compile 'ch.qos.logback:logback-classic:1.2.3'
+    compile group: 'com.external', name: 'Payments', version: '1.0-SNAPSHOT'
+    compile group: 'com.internal', name: 'Tools', version: '1.0-SNAPSHOT'
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}

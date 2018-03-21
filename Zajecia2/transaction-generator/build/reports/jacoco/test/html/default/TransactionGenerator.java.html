@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="pl"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>TransactionGenerator.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">transaction-generator</a> &gt; <a href="index.source.html" class="el_package">default</a> &gt; <span class="el_source">TransactionGenerator.java</span></div><h1>TransactionGenerator.java</h1><pre class="source lang-java linenums">
+import java.time.*;
+import java.time.format.DateTimeFormatter;
+import java.time.format.DateTimeParseException;
+import java.util.Random;
+import java.util.concurrent.ThreadLocalRandom;
+
+
+public class TransactionGenerator {
+    private InputParser inputParser;
+
+<span class="fc" id="L12">    TransactionGenerator(String[] args) {</span>
+<span class="fc" id="L13">        inputParser = InputParser.getInstance(args);</span>
+<span class="fc" id="L14">    }</span>
+
+    //Constructor used only in tests
+<span class="fc" id="L17">    TransactionGenerator(InputParser inputParser){</span>
+<span class="fc" id="L18">        this.inputParser = inputParser;</span>
+<span class="fc" id="L19">    }</span>
+
+    Long generateId() {
+<span class="fc" id="L22">        Long[] range = inputParser.getCustomerIdRange();</span>
+<span class="fc" id="L23">        return ThreadLocalRandom.current().nextLong(range[0], range[1]);</span>
+    }
+
+    String generateDate() {
+<span class="fc" id="L27">        OffsetDateTime[] range = inputParser.getDateRange();</span>
+<span class="fc" id="L28">        Duration between = Duration.between(range[0], range[1]);</span>
+<span class="fc" id="L29">        LocalDateTime localDateTime = LocalDateTime.ofEpochSecond(ThreadLocalRandom</span>
+<span class="fc" id="L30">                .current()</span>
+<span class="fc" id="L31">                .nextLong(range[0].toEpochSecond(), range[0].plusSeconds(between.getSeconds()).toEpochSecond()), 0, range[0].getOffset());</span>
+<span class="fc" id="L32">        OffsetDateTime offsetDateTime = OffsetDateTime.of(localDateTime, range[0].getOffset());</span>
+<span class="fc" id="L33">        return offsetDateTime.toString();</span>
+    }
+
+    String getFileName() {
+<span class="fc" id="L37">        return inputParser.getItemsFile();</span>
+    }
+
+
+    long generateNumberOfItems() {
+<span class="fc" id="L42">        Long[] range = inputParser.getItemsCountRange();</span>
+<span class="fc" id="L43">        return ThreadLocalRandom.current().nextLong(range[0], range[1]);</span>
+
+    }
+
+    long generateQuantity() {
+<span class="fc" id="L48">        Long[] range = inputParser.getItemsQuantity();</span>
+<span class="fc" id="L49">        return ThreadLocalRandom.current().nextLong(range[0], range[1]);</span>
+
+    }
+
+    long generateNumberOfEvents() {
+<span class="fc" id="L54">        Long bound = inputParser.getEventsCount();</span>
+<span class="fc" id="L55">        return ThreadLocalRandom.current().nextLong(bound);</span>
+
+    }
+
+    String getOutDir() {
+<span class="fc" id="L60">        return inputParser.getOutDir();</span>
+    }
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.0.201801022044</span></div></body></html>

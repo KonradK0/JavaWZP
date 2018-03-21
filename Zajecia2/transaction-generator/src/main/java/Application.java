@@ -13,7 +13,7 @@ import java.util.stream.Collectors;
 
 public class Application {
 
-    public static void main(String[] args) {
+    public static void main(String... args) {
         TransactionGenerator transactionGenerator = new TransactionGenerator(args);
 
         List<String[]> nameValueList = readInputFile(transactionGenerator.getFileName());
@@ -57,7 +57,7 @@ public class Application {
         }
     }
 
-    public static String createJson(TransactionGenerator transactionGenerator, List<String[]> nameValueList, int id) {
+    private static String createJson(TransactionGenerator transactionGenerator, List<String[]> nameValueList, int id) {
         String timestamp = transactionGenerator.generateDate();
         long customerId = transactionGenerator.generateId();
         long itemsCount = transactionGenerator.generateNumberOfItems();

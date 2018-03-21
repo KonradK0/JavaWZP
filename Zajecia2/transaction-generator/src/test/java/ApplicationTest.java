@@ -8,6 +8,11 @@ import org.mockito.junit.MockitoRule;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.time.LocalDate;
+import java.time.LocalTime;
+import java.time.OffsetDateTime;
+import java.time.ZoneOffset;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.stream.Stream;
 
 public class ApplicationTest {
@@ -16,6 +21,9 @@ public class ApplicationTest {
     private TransactionGenerator transactionGenerator;
 
     @Mock InputParser inputParser;
+
+    @Mock
+    ArrayList<String[]> list = new ArrayList<>();
 
     @Rule
     public MockitoRule mockitoRule = MockitoJUnit.rule();
@@ -52,10 +60,10 @@ public class ApplicationTest {
 
     @Test
     public void saveJsonFile(){
-        Path outPath = Paths.get("src", "test", "resources");
-        String[] dateRange = new String[2];
-        dateRange[0] = LocalDate.now().toString() + "T00:00:00.000-0100";
-        dateRange[1] = LocalDate.now().toString() + "T23:59:59.999-0100";
+        Path outPath = Paths.get("output", "saveTestUnit.json");
+        OffsetDateTime[] dateRange = new OffsetDateTime[2];
+        dateRange[0] = OffsetDateTime.of(LocalDate.now(), LocalTime.of(0,0), ZoneOffset.UTC);
+        dateRange[1] = OffsetDateTime.of(LocalDate.now(), LocalTime.of(23,59), ZoneOffset.UTC);
         Mockito.when(inputParser.getDateRange()).thenReturn(dateRange);
         Long[] customerIds = new Long[2];
         customerIds[0] = (long) 1;
@@ -70,6 +78,11 @@ public class ApplicationTest {
         itemsQuantityRange[1] = (long) 30;
         Mockito.when(inputParser.getItemsQuantity()).thenReturn(itemsQuantityRange);
         transactionGenerator = new TransactionGenerator(inputParser);
-        //Application.saveJsonFile();
+        Mockito.when(list.size()).thenReturn(1);
+        String[] namePrice = new String[2];
+        namePrice[0]= "item";
+        namePrice[1] = "1.0";
+        Mockito.when(list.get(Mockito.anyInt())).thenReturn(namePrice);
+        Application.saveJsonFile(outPath, transactionGenerator, list, 0);
     }
 }

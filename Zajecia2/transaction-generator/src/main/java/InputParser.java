@@ -1,19 +1,13 @@
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
 import org.apache.commons.cli.*;
 
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
+import java.time.Duration;
 import java.time.LocalDate;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Random;
-import java.util.stream.Collectors;
+import java.time.LocalDateTime;
+import java.time.OffsetDateTime;
+import java.time.format.DateTimeFormatter;
+import java.time.format.DateTimeParseException;
+import java.util.concurrent.ThreadLocalRandom;
+
 
 public class InputParser {
     private static InputParser INSTANCE = null;
@@ -21,14 +15,15 @@ public class InputParser {
     Options options = new Options();
     CommandLine line;
 
-    //Default constructor only used in tests
-    public InputParser() {
-
+    //Constructor only used in tests
+    public InputParser(CommandLine line) {
+        this.line = line;
     }
 
     private InputParser(String[] args) {
         buildOptions();
-        parseCommandLine(args);
+        CommandLineParser parser = new BasicParser();
+        parseCommandLine(args, parser);
     }
 
     private void buildOptions() {
@@ -41,11 +36,11 @@ public class InputParser {
         options.addOption(OptionBuilder.hasArg().withDescription("name of folder to save output").create("outDir"));
     }
 
-    private void parseCommandLine(String[] args) {
-        CommandLineParser parser = new BasicParser();
+    private void parseCommandLine(String[] args, CommandLineParser parser) {
         try {
             this.line = parser.parse(options, args);
         } catch (ParseException e) {
+            System.out.println("Error parsing command line");
             e.printStackTrace();
         }
     }
@@ -60,7 +55,6 @@ public class InputParser {
             try {
                 customerIds[0] = Long.valueOf(customerIdsStr[0]);
                 customerIds[1] = Long.valueOf(customerIdsStr[1]);
-
             } catch (NumberFormatException e) {
                 System.out.println("Wrong argument passed, using default");
             }
@@ -68,11 +62,24 @@ public class InputParser {
         return customerIds;
     }
 
-    public String[] getDateRange() {
-        String[] dates = new String[2];
-        if (line.hasOption("dateRange"))
-            dates = line.getOptionValues("dateRange");
-        return dates;
+    public OffsetDateTime[] getDateRange() {
+        String[] range;
+        OffsetDateTime[] dateRange = new OffsetDateTime[2];
+        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss.SSSX");
+        dateRange[0] = OffsetDateTime.parse(LocalDate.now().toString() + "T00:00:00.000-0100", formatter);
+        dateRange[1] = OffsetDateTime.parse(LocalDate.now().toString() + "T23:59:59.999-0100", formatter);
+        if (line.hasOption("dateRange")) {
+            range = line.getOptionValues("dateRange");
+            try {
+                dateRange[0] = OffsetDateTime.parse(range[0], formatter);
+                dateRange[1] = OffsetDateTime.parse(range[1], formatter);
+            } catch (DateTimeParseException e) {
+                dateRange[0] = OffsetDateTime.parse(LocalDate.now().toString() + "T00:00:00.000-0100", formatter);
+                dateRange[1] = OffsetDateTime.parse(LocalDate.now().toString() + "T23:59:59.999-0100", formatter);
+                System.out.println("The date format is incorrect. Use \"yyyy-MM-dd'T'HH:mm:ss.SSSXXXX\";\"yyyy-MM-dd'T'HH:mm:ss.SSSXXXX\" for date range. Using default date range");
+            }
+        }
+        return dateRange;
     }
 
     public String getItemsFile() {
@@ -135,7 +142,7 @@ public class InputParser {
         return itemsFile;
     }
 
-    public static InputParser getInstance(String[] args) {
+    public static InputParser getInstance(String... args) {
         if (INSTANCE == null) {
             INSTANCE = new InputParser(args);
         }

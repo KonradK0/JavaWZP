@@ -24,23 +24,12 @@ public class TransactionGenerator {
     }
 
     String generateDate() {
-        String[] range = inputParser.getDateRange();
-        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss.SSSX");
-        OffsetDateTime start;
-        OffsetDateTime end;
-        try {
-            start = OffsetDateTime.parse(range[0], formatter);
-            end = OffsetDateTime.parse(range[1], formatter);
-        } catch (DateTimeParseException | NullPointerException e) {
-            start = OffsetDateTime.parse(LocalDate.now().toString() + "T00:00:00.000-0100", formatter);
-            end = OffsetDateTime.parse(LocalDate.now().toString() + "T23:59:59.999-0100", formatter);
-            System.out.println("The date format is incorrect. Use \"yyyy-MM-dd'T'HH:mm:ss.SSSXXXX;yyyy-MM-dd'T'HH:mm:ss.SSSXXXX\" for date range. Using default date range");
-        }
-        Duration between = Duration.between(start, end);
+        OffsetDateTime[] range = inputParser.getDateRange();
+        Duration between = Duration.between(range[0], range[1]);
         LocalDateTime localDateTime = LocalDateTime.ofEpochSecond(ThreadLocalRandom
                 .current()
-                .nextLong(start.toEpochSecond(), start.plusSeconds(between.getSeconds()).toEpochSecond()), 0, start.getOffset());
-        OffsetDateTime offsetDateTime = OffsetDateTime.of(localDateTime, start.getOffset());
+                .nextLong(range[0].toEpochSecond(), range[0].plusSeconds(between.getSeconds()).toEpochSecond()), 0, range[0].getOffset());
+        OffsetDateTime offsetDateTime = OffsetDateTime.of(localDateTime, range[0].getOffset());
         return offsetDateTime.toString();
     }
 
