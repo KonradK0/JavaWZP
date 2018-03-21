@@ -1,4 +1,6 @@
 import org.apache.commons.cli.*;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 import java.time.Duration;
 import java.time.LocalDate;
@@ -15,6 +17,7 @@ public class InputParser {
     Options options = new Options();
     CommandLine line;
 
+    public static final Logger logger = LogManager.getLogger(InputParser.class.getName());
     //Constructor only used in tests
     public InputParser(CommandLine line) {
         this.line = line;
@@ -39,8 +42,9 @@ public class InputParser {
     private void parseCommandLine(String[] args, CommandLineParser parser) {
         try {
             this.line = parser.parse(options, args);
+            logger.info("Parsing command line input");
         } catch (ParseException e) {
-            System.out.println("Error parsing command line");
+            logger.warn("Error parsing command line");
             e.printStackTrace();
         }
     }
@@ -52,13 +56,15 @@ public class InputParser {
         customerIds[1] = (long) 20;
         if (line.hasOption("customerIds")) {
             customerIdsStr = line.getOptionValues("customerIds");
+            logger.info("Trying to parse range of customer ids " + customerIdsStr[0] + ":" + customerIdsStr[1]);
             try {
                 customerIds[0] = Long.valueOf(customerIdsStr[0]);
                 customerIds[1] = Long.valueOf(customerIdsStr[1]);
             } catch (NumberFormatException e) {
-                System.out.println("Wrong argument passed, using default");
+                logger.warn("Wrong argument passed, using default");
             }
         }
+        logger.info("Returning range of customer ids " + customerIds[0] + ":" + customerIds[1]);
         return customerIds;
     }
 
@@ -76,7 +82,7 @@ public class InputParser {
             } catch (DateTimeParseException e) {
                 dateRange[0] = OffsetDateTime.parse(LocalDate.now().toString() + "T00:00:00.000-0100", formatter);
                 dateRange[1] = OffsetDateTime.parse(LocalDate.now().toString() + "T23:59:59.999-0100", formatter);
-                System.out.println("The date format is incorrect. Use \"yyyy-MM-dd'T'HH:mm:ss.SSSXXXX\";\"yyyy-MM-dd'T'HH:mm:ss.SSSXXXX\" for date range. Using default date range");
+                logger.warn("The date format is incorrect. Use \"yyyy-MM-dd'T'HH:mm:ss.SSSXXXX\";\"yyyy-MM-dd'T'HH:mm:ss.SSSXXXX\" for date range. Using default date range");
             }
         }
         return dateRange;
@@ -84,8 +90,10 @@ public class InputParser {
 
     public String getItemsFile() {
         String itemsFile = "items.csv";
-        if (line.hasOption("itemsFile"))
+        if (line.hasOption("itemsFile")) {
+            logger.info("Parsing items file name");
             itemsFile = line.getOptionValue("itemsFile");
+        }
         return itemsFile;
     }
 
@@ -96,11 +104,12 @@ public class InputParser {
         itemsCountRange[1] = (long) 5;
         if (line.hasOption("itemsCount")) {
             strItemsCountRange = line.getOptionValues("itemsCount");
+            logger.info("Parsing items count range");
             try {
                 itemsCountRange[0] = Long.valueOf(strItemsCountRange[0]);
                 itemsCountRange[1] = Long.valueOf(strItemsCountRange[1]);
             } catch (NumberFormatException e) {
-                System.out.println("Wrong argument passed, using default");
+                logger.warn("Wrong argument passed, using default");
             }
         }
         return itemsCountRange;
@@ -112,12 +121,13 @@ public class InputParser {
         itemsQuantityRange[0] = (long) 1;
         itemsQuantityRange[1] = (long) 30;
         if (line.hasOption("itemsQuantity")) {
+            logger.info("Parsing items quantity range");
             strItemsQuantity = line.getOptionValues("itemsQuantity");
             try {
                 itemsQuantityRange[0] = Long.valueOf(strItemsQuantity[0]);
                 itemsQuantityRange[1] = Long.valueOf(strItemsQuantity[1]);
             } catch (NumberFormatException e) {
-                System.out.println("Wrong argument passed, using default");
+                logger.warn("Wrong argument passed, using default");
             }
         }
         return itemsQuantityRange;
@@ -126,24 +136,28 @@ public class InputParser {
     public Long getEventsCount() {
         long eventsCount = 1000;
         if (line.hasOption("eventsCount")) {
+            logger.info("Parsing events count");
             try {
                 eventsCount = Long.valueOf(line.getOptionValue("eventsCount"));
             } catch (NumberFormatException | NullPointerException e) {
-                System.out.println("Wrong argument passed, using default");
+                logger.warn("Wrong argument passed, using default");
             }
         }
         return eventsCount;
     }
 
     public String getOutDir() {
-        String itemsFile = "";
-        if (line.hasOption("outDir"))
-            itemsFile = line.getOptionValue("outDir");
-        return itemsFile;
+        String outDir = "";
+        if (line.hasOption("outDir")) {
+            logger.info("Parsing items file name");
+            outDir = line.getOptionValue("outDir");
+        }
+        return outDir;
     }
 
     public static InputParser getInstance(String... args) {
         if (INSTANCE == null) {
+            logger.debug("Creating new InputParser instance");
             INSTANCE = new InputParser(args);
         }
         return INSTANCE;
