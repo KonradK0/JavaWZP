@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/transaction-generator.iml" filepath="$PROJECT_DIR$/.idea/modules/transaction-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/transaction-generator_main.iml" filepath="$PROJECT_DIR$/.idea/modules/transaction-generator_main.iml" group="transaction-generator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/transaction-generator_test.iml" filepath="$PROJECT_DIR$/.idea/modules/transaction-generator_test.iml" group="transaction-generator" />
+    </modules>
+  </component>
+</project>
