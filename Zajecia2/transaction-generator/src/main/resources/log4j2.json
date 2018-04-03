@@ -11,7 +11,7 @@
       },
       "RollingFile": {
         "name": "File",
-        "fileName": "C:/Users/Konrad/OneDrive/Dokumenty/JavaWZP/JavaWZP/Zajecia2/transaction-generator/logs/logs.log",
+        "fileName": "./logs/logs.log",
         "filePattern": "C:/logs/howtodoinjava-backup-%d{MM-dd-yy-HH-mm-ss}_jsonlogger-%i.json",
         "PatternLayout": {
           "pattern": "%d{yyyy-MM-dd HH:mm:ss} %-5p %c{1}:%L - %m%n"

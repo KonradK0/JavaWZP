@@ -1,0 +1,21 @@
+plugins {
+    id 'java'
+    id "io.franzbecker.gradle-lombok" version "1.11"
+}
+
+group 'uj.jwzp.w4'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+sourceCompatibility = 1.8
+
+dependencies {
+    compile 'org.simpleflatmapper:sfm-csv:3.16.0'
+    compile 'io.vavr:vavr:0.9.2'
+    compile 'ch.qos.logback:logback-classic:1.2.3'
+    compile 'org.springframework:spring-context:5.0.4.RELEASE'
+
+}

@@ -1,3 +1,6 @@
+import logic.Application;
+import IOoperations.InputParser;
+import logic.TransactionGenerator;
 import org.junit.Rule;
 import org.junit.Test;
 import org.mockito.Mock;
@@ -12,15 +15,14 @@ import java.time.LocalTime;
 import java.time.OffsetDateTime;
 import java.time.ZoneOffset;
 import java.util.ArrayList;
-import java.util.List;
-import java.util.stream.Stream;
 
 public class ApplicationTest {
 
     @Mock
     private TransactionGenerator transactionGenerator;
 
-    @Mock InputParser inputParser;
+    @Mock
+    InputParser inputParser;
 
     @Mock
     ArrayList<String[]> list = new ArrayList<>();

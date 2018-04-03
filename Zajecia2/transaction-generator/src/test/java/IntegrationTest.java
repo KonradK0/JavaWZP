@@ -1,3 +1,4 @@
+import logic.Application;
 import org.junit.Test;
 
 public class IntegrationTest {

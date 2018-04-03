@@ -45,3 +45,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#IntelliJ support files
+Zajecia2/transaction-generator/.gradle
+Zajecia2/transaction-generator/.idea
+Zajecia2/transaction-generator/out/
+Zajecia2/transaction-generator/build
+Zajecia2/transaction-generator/gradlelw
+Zajecia2/transaction-generator/gradlelw.bat

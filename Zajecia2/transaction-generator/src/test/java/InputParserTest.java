@@ -1,7 +1,5 @@
-import org.apache.commons.cli.BasicParser;
+import IOoperations.InputParser;
 import org.apache.commons.cli.CommandLine;
-import org.apache.commons.cli.CommandLineParser;
-import org.apache.commons.cli.ParseException;
 import org.junit.Assert;
 import org.junit.Rule;
 import org.junit.Test;
