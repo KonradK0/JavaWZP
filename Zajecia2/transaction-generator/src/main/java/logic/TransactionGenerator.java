@@ -68,7 +68,7 @@ public class TransactionGenerator {
         long itemsCount = generateNumberOfItems();
         ArrayList<Item> items = new ArrayList<>();
         for (int j = 0; j < itemsCount; j++) {
-            String[] itemNamePrice = productNamePriceList.get(new Random().nextInt(productNamePriceList.size()));
+            String[] itemNamePrice = productNamePriceList.get(new Random().nextInt(productNamePriceList.size() + 1));
             Item item = new Item(itemNamePrice[0], generateQuantity(), Double.valueOf(itemNamePrice[1]));
             logger.info("Creating an item on list");
             items.add(item);

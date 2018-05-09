@@ -1,0 +1,2384 @@
+2018-04-03 15:32:35 DEBUG InputParser:173 - Creating new IOoperations.InputParser instance
+2018-04-03 15:32:35 INFO  InputParser:45 - Parsing command line input
+2018-04-03 15:32:35 INFO  Application:44 - Trying to read input file of name src\main\resources\items.csv
+2018-04-03 15:32:35 WARN  Application:56 - This folder already exists
+2018-04-03 15:32:35 INFO  TransactionGenerator:60 - Drawing a random number of events
+2018-04-03 15:32:35 INFO  OutputWriter:26 - Trying to save JSON file of name order0.json
+2018-04-03 15:32:35 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:35 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:35 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:35 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:35 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:35 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:35 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:35 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:35 INFO  OutputWriter:26 - Trying to save JSON file of name order1.json
+2018-04-03 15:32:35 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:35 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:35 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:35 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:35 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:35 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:35 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:35 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:35 INFO  OutputWriter:26 - Trying to save JSON file of name order2.json
+2018-04-03 15:32:35 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:35 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:35 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:35 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:35 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:35 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:35 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:35 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:35 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:35 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:35 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:35 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:35 INFO  OutputWriter:26 - Trying to save JSON file of name order3.json
+2018-04-03 15:32:35 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:35 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:35 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:35 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:35 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:35 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:35 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:35 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:35 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:35 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:35 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:35 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order4.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order5.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order6.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order7.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order8.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order9.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order10.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order11.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order12.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order13.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order14.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order15.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order16.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order17.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order18.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order19.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order20.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order21.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order22.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order23.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order24.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order25.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order26.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order27.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order28.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order29.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order30.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order31.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order32.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order33.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order34.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order35.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order36.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order37.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order38.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order39.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order40.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order41.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order42.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order43.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order44.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  OutputWriter:26 - Trying to save JSON file of name order45.json
+2018-04-03 15:32:36 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:36 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:36 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:36 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:36 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:36 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order46.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order47.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order48.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order49.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order50.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order51.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order52.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order53.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order54.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order55.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order56.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order57.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order58.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order59.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order60.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order61.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order62.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order63.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order64.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order65.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order66.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order67.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order68.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order69.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order70.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order71.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order72.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order73.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order74.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order75.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order76.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order77.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order78.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order79.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order80.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order81.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order82.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order83.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order84.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order85.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order86.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order87.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order88.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order89.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order90.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order91.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order92.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order93.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order94.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order95.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order96.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order97.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order98.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order99.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order100.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order101.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order102.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:37 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:37 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:37 INFO  OutputWriter:26 - Trying to save JSON file of name order103.json
+2018-04-03 15:32:37 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:37 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:37 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order104.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order105.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order106.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order107.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order108.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order109.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order110.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order111.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order112.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order113.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order114.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order115.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order116.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order117.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order118.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order119.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order120.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order121.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order122.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order123.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order124.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order125.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order126.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order127.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order128.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order129.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order130.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order131.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order132.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order133.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order134.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order135.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order136.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order137.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order138.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order139.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order140.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order141.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order142.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order143.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order144.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order145.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order146.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order147.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order148.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order149.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order150.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order151.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order152.json
+2018-04-03 15:32:38 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:38 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:38 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:38 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:38 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:38 INFO  OutputWriter:26 - Trying to save JSON file of name order153.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order154.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order155.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order156.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order157.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order158.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order159.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order160.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order161.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order162.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order163.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order164.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order165.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order166.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order167.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order168.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order169.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order170.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order171.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order172.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order173.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order174.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order175.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order176.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order177.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order178.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order179.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order180.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order181.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order182.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order183.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order184.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order185.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order186.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order187.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order188.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order189.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order190.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order191.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order192.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order193.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order194.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order195.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order196.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order197.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order198.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  OutputWriter:26 - Trying to save JSON file of name order199.json
+2018-04-03 15:32:39 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:39 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:39 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:39 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:39 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:39 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order200.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order201.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order202.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order203.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order204.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order205.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order206.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order207.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order208.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order209.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order210.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order211.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order212.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order213.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order214.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order215.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order216.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order217.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order218.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order219.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order220.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order221.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order222.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order223.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order224.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order225.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order226.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order227.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order228.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order229.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order230.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order231.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order232.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order233.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
+2018-04-03 15:32:40 INFO  OutputWriter:26 - Trying to save JSON file of name order234.json
+2018-04-03 15:32:40 INFO  TransactionGenerator:38 - Drawing a random date
+2018-04-03 15:32:40 INFO  InputParser:67 - Returning range of customer ids 1:20
+2018-04-03 15:32:40 INFO  TransactionGenerator:27 - Drawing a random customerId
+2018-04-03 15:32:40 INFO  TransactionGenerator:46 - Drawing a random number of items
+2018-04-03 15:32:40 INFO  TransactionGenerator:53 - Drawing random quantity of an item
+2018-04-03 15:32:40 INFO  TransactionGenerator:73 - Creating an item on list
