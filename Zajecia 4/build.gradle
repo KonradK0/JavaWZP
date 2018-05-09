@@ -1,6 +1,7 @@
 plugins {
     id 'java'
     id "io.franzbecker.gradle-lombok" version "1.11"
+    id "com.github.johnrengelman.shadow" version "2.0.2"
 }
 
 group 'uj.jwzp.w4'
@@ -17,5 +18,22 @@ dependencies {
     compile 'io.vavr:vavr:0.9.2'
     compile 'ch.qos.logback:logback-classic:1.2.3'
     compile 'org.springframework:spring-context:5.0.4.RELEASE'
+
+}
+
+shadowJar {
+    baseName = 'w4-di'
+    classifier = null
+    version = null
+    manifest {
+        attributes 'Main-Class': 'uj.jwzp.w4.launchers.SpringMain'
+    }
+}
+
+jar {
+    manifest {
+        attributes 'Main-Class': "uj.jwzp.w4.launchers.SpringMain"
+
+    }
 
 }
