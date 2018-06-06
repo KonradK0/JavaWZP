@@ -8,33 +8,38 @@ import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
 
 import logic.IOoperations.InputParser;
+import logic.utils.RandomGenerator;
 import model.Transaction;
 import model.Item;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import logic.utils.Range;
+import org.springframework.stereotype.Service;
 
-
+@Service
 public class TransactionGenerator {
     private InputParser inputParser;
 
+    private RandomGenerator randomGenerator;
+
     private static final Logger logger = LogManager.getLogger(TransactionGenerator.class.getName());
 
-    public TransactionGenerator(InputParser inputParser) {
+    public TransactionGenerator(InputParser inputParser, RandomGenerator randomGenerator) {
         this.inputParser = inputParser;
+        this.randomGenerator = randomGenerator;
     }
 
-    private Long generateId() {
+    Long generateId() {
         Range<Long> range = inputParser.getCustomerIdRange();
         logger.info("Drawing a random customerId");
-        return ThreadLocalRandom.current().nextLong(range.getLowBound(), range.getUpBound());
+        return randomGenerator.getRandomLong(range.getLowBound(), range.getUpBound());
     }
 
-    private String generateDate() {
+    String generateDate() {
         Range<OffsetDateTime> range = inputParser.getDateRange();
         Duration between = Duration.between(range.getLowBound(), range.getUpBound());
-        LocalDateTime localDateTime = LocalDateTime.ofEpochSecond(ThreadLocalRandom.current()
-                .nextLong(range.getLowBound().toEpochSecond(), range.getLowBound().plusSeconds(between.getSeconds()).toEpochSecond())
+        LocalDateTime localDateTime = LocalDateTime.ofEpochSecond(randomGenerator.getRandomLong
+                        (range.getLowBound().toEpochSecond(), range.getLowBound().plusSeconds(between.getSeconds()).toEpochSecond())
                 ,0
                 , range.getLowBound().getOffset());
         OffsetDateTime randomDate = OffsetDateTime.of(localDateTime, range.getLowBound().getOffset());
@@ -42,19 +47,17 @@ public class TransactionGenerator {
         return randomDate.toString();
     }
 
-
-
-    private long generateNumberOfItems() {
+    long generateNumberOfItems() {
         Range<Long> range = inputParser.getItemsCountRange();
         logger.info("Drawing a random number of items");
-        return ThreadLocalRandom.current().nextLong(range.getLowBound(), range.getUpBound());
+        return randomGenerator.getRandomLong(range.getLowBound(), range.getUpBound());
 
     }
 
-    private long generateQuantity() {
+    long generateQuantity() {
         Range<Long> range = inputParser.getItemsQuantity();
         logger.info("Drawing random quantity of an item");
-        return ThreadLocalRandom.current().nextLong(range.getLowBound(), range.getUpBound());
+        return randomGenerator.getRandomLong(range.getLowBound(), range.getUpBound());
 
     }
 
@@ -64,7 +67,7 @@ public class TransactionGenerator {
         long itemsCount = generateNumberOfItems();
         ArrayList<Item> items = new ArrayList<>();
         for (int j = 0; j < itemsCount; j++) {
-            Item item = itemList.get(new Random().nextInt(itemList.size()));
+            Item item = itemList.get(randomGenerator.getRandomLong(0, itemList.size()).intValue());
             item.setQuantity(generateQuantity());
             logger.info("Creating an item on list");
             items.add(item);

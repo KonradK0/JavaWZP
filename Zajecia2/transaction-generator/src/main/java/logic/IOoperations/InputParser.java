@@ -18,13 +18,11 @@ import java.time.format.DateTimeParseException;
 public class InputParser {
 
     private static final Logger logger = LogManager.getLogger(InputParser.class.getName());
-    @Autowired
     private ApplicationWrapper wrapper;
-    @Autowired
     private RandomGenerator randomGenerator;
 
 
-    public InputParser() {}
+//    public InputParser() {}
 
     public InputParser(ApplicationWrapper wrapper, RandomGenerator generator){
         this.wrapper = wrapper;

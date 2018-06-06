@@ -21507,3 +21507,20 @@
 2018-06-06 16:54:25 INFO  InputParser:49 - Returning range of customer ids 1:20
 2018-06-06 16:55:08 INFO  InputParser:41 - Trying to parse range of customer ids 1:50
 2018-06-06 16:55:08 INFO  InputParser:49 - Returning range of customer ids 1:50
+2018-06-06 17:06:14 INFO  InputParser:148 - Parsing output format
+2018-06-06 17:06:14 INFO  InputParser:148 - Parsing output format
+2018-06-06 17:06:14 INFO  InputParser:125 - Parsing events count
+2018-06-06 17:06:14 INFO  InputParser:77 - Parsing items file name
+2018-06-06 17:06:14 INFO  InputParser:91 - Parsing items count range
+2018-06-06 17:06:14 INFO  InputParser:139 - Parsing items file name
+2018-06-06 17:06:14 INFO  InputParser:148 - Parsing output format
+2018-06-06 17:06:14 INFO  InputParser:148 - Parsing output format
+2018-06-06 17:06:14 INFO  InputParser:109 - Parsing items quantity range
+2018-06-06 17:11:19 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-06 17:13:45 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-06 17:21:59 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-06 17:23:19 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-06 17:25:12 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-06 17:25:42 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-06 17:25:47 INFO  InputParser:47 - Returning range of customer ids 1:20
+2018-06-06 17:26:04 INFO  InputParser:47 - Returning range of customer ids 1:20
