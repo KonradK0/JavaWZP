@@ -43442,3 +43442,45 @@
 2018-06-06 22:28:41 INFO  InputParser:107 - Parsing items quantity range
 2018-06-06 22:28:41 INFO  TransactionGenerator:57 - Drawing random quantity of an item
 2018-06-06 22:28:41 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 23:16:21 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-06 23:16:21 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-06 23:16:21 INFO  InputParser:146 - Parsing output format
+2018-06-06 23:16:21 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-06 23:16:21 INFO  InputParser:48 - Returning range of customer ids 1:20
+2018-06-06 23:16:21 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-06 23:16:21 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-06 23:16:21 INFO  InputParser:146 - Parsing output format
+2018-06-06 23:16:21 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-06 23:16:21 INFO  InputParser:123 - Parsing events count
+2018-06-06 23:16:21 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-06 23:16:22 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-06 23:16:22 INFO  InputParser:75 - Parsing items file name
+2018-06-06 23:16:22 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-06 23:16:22 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-06 23:16:22 INFO  InputParser:89 - Parsing items count range
+2018-06-06 23:16:22 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-06 23:16:22 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-06 23:16:22 INFO  InputParser:40 - Trying to parse range of customer ids 1:30
+2018-06-06 23:16:22 INFO  InputParser:48 - Returning range of customer ids 1:30
+2018-06-06 23:16:22 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-06 23:16:22 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-06 23:16:22 INFO  InputParser:137 - Parsing items file name
+2018-06-06 23:16:22 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-06 23:16:22 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-06 23:16:22 INFO  InputParser:146 - Parsing output format
+2018-06-06 23:16:22 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-06 23:16:22 INFO  InputParser:146 - Parsing output format
+2018-06-06 23:16:22 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-06 23:16:22 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 23:16:22 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-06 23:16:22 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 23:16:22 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 23:16:22 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 23:16:22 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 23:16:22 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 23:16:22 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 23:16:22 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 23:16:22 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 23:16:22 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 23:16:22 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 23:16:22 INFO  TransactionGenerator:32 - Drawing a random customerId
