@@ -24,15 +24,13 @@ public class Application {
         InputParser inputParser = (InputParser) ctx.getBean("inputParser", wrapper, generator);
         inputParser.getCustomerIdRange();
         TransactionGenerator transactionGenerator = (TransactionGenerator) ctx.getBean("transactionGenerator");
-        List<Item> namePriceList = new CSVInputReader().parseItems();
+        CSVInputReader csvInputReader = (CSVInputReader) ctx.getBean("CSVInputReader");
+        List<Item> namePriceList = csvInputReader.parseItems();
         OutputWriter outputWriter = inputParser.getOutputWriter();
         String outDir = inputParser.getOutDir();
         outputWriter.createOutDir(outDir);
         long eventsCount = inputParser.getEventsCount();
-        for (int i = 0 ; i < eventsCount; i++){
-            System.out.println(transactionGenerator.generateTransaction(namePriceList, i));
-        }
-//        outputWriter.saveToFile(eventsCount, outDir , transactionGenerator, namePriceList);
+        outputWriter.saveToFile(eventsCount, outDir , transactionGenerator, namePriceList);
     }
 
     public static AnnotationConfigApplicationContext createContext(CommandLinePropertySource propertySource){

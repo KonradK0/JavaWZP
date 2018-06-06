@@ -16,10 +16,10 @@ import java.time.*;
 public class TransactionGeneratorTest {
 
     @Mock
-    InputParser inputParser;
+    private InputParser inputParser;
 
     @Mock
-    RandomGenerator randomGenerator;
+    private RandomGenerator randomGenerator;
 
     @Rule
     public MockitoRule rule = MockitoJUnit.rule();

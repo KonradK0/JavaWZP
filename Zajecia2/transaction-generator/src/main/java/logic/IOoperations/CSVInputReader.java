@@ -10,7 +10,7 @@ import java.io.InputStreamReader;
 import java.io.UncheckedIOException;
 import java.util.List;
 
-@Service
+@Service("CSVInputReader")
 public class CSVInputReader {
     public List<Item> parseItems(){
        return getCsvToBean().parse();

@@ -1,9 +1,7 @@
 package logic.IOoperations;
 
 import launchers.Application;
-import logic.IOoperations.*;
 import logic.utils.ApplicationWrapper;
-import org.apache.commons.cli.CommandLine;
 import org.junit.Assert;
 import org.junit.Rule;
 import org.junit.Test;
@@ -24,13 +22,10 @@ import java.time.ZoneOffset;
 public class InputParserTest {
 
     @Mock
-    CommandLine commandLine;
+    private ApplicationWrapper applicationWrapper;
 
     @Mock
-    ApplicationWrapper applicationWrapper;
-
-    @Mock
-    RandomGenerator generator;
+    private RandomGenerator generator;
 
     @Rule
     public MockitoRule rule = MockitoJUnit.rule();
@@ -59,7 +54,7 @@ public class InputParserTest {
 
     @Test
     public void testGetDateRange(){
-        String[] args = {"--dateRange=\"2018-03-08T00:00:00.000-0100\":\"2018-03-08T23:59:59.999-0100\""};
+        String[] args = {"--dateRange=\"2018-03-08T00:00:00.000-0100:2018-03-08T23:59:59.999-0100\""};
         AnnotationConfigApplicationContext ctx = Application.createContext(new SimpleCommandLinePropertySource("arguments", args));
         Mockito.when(applicationWrapper.getWrappedContext()).thenReturn(ctx);
         InputParser uut = new InputParser(applicationWrapper, generator);
@@ -213,7 +208,7 @@ public class InputParserTest {
 
         String out = uut.getOutDir();
 
-        Assert.assertEquals(out, "");
+        Assert.assertEquals(out, "./");
     }
 
     @Test
