@@ -14,6 +14,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.List;
 
+@Service
 public class JsonWriter implements OutputWriter {
     public void saveToFile(long eventsCount, String outDir, TransactionGenerator transactionGenerator, List<Item> itemList) {
         for (int i = 0; i < eventsCount; i++) {

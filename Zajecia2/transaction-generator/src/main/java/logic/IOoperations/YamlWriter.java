@@ -12,7 +12,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.List;
 
-
+@Service
 public class YamlWriter implements OutputWriter {
     @Override
     public void saveToFile(long eventsCount, String outDir, TransactionGenerator transactionGenerator, List<Item> itemList) {
