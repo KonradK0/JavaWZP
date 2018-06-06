@@ -1,0 +1,13 @@
+{
+  "id": 21,
+  "timestamp": "2018-03-08T21:03:52-01:00",
+  "customerId": 1,
+  "items": [
+    {
+      "name": "mleko 3% 1l",
+      "quantity": 1,
+      "price": 2.30
+    }
+  ],
+  "sum": 2.30
+}

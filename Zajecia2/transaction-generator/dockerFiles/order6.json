@@ -1,0 +1,13 @@
+{
+  "id": 6,
+  "timestamp": "2018-03-08T10:12:52-01:00",
+  "customerId": 1,
+  "items": [
+    {
+      "name": "jajko",
+      "quantity": 1,
+      "price": 0.50
+    }
+  ],
+  "sum": 0.50
+}

@@ -1,0 +1,13 @@
+{
+  "id": 10,
+  "timestamp": "2018-03-08T05:47:26-01:00",
+  "customerId": 1,
+  "items": [
+    {
+      "name": "woda 1.5l",
+      "quantity": 1,
+      "price": 2.00
+    }
+  ],
+  "sum": 2.00
+}

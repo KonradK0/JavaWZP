@@ -1,0 +1,13 @@
+{
+  "id": 19,
+  "timestamp": "2018-03-08T14:34:31-01:00",
+  "customerId": 1,
+  "items": [
+    {
+      "name": "chleb ciemny",
+      "quantity": 1,
+      "price": 2.50
+    }
+  ],
+  "sum": 2.50
+}

@@ -16,7 +16,7 @@ public class PropertiesInputParser {
 
     public PropertiesInputParser(){
         try {
-            InputStream input = new FileInputStream("storage/generator.properties");
+            InputStream input = new FileInputStream("/storage/generator.properties");
             properties.load(input);
         } catch (java.io.IOException e) {
             logger.error("Unable to read or load properties file");

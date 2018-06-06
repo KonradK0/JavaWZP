@@ -1,0 +1,13 @@
+{
+  "id": 11,
+  "timestamp": "2018-03-08T23:41:23-01:00",
+  "customerId": 1,
+  "items": [
+    {
+      "name": "szynka 1kg",
+      "quantity": 1,
+      "price": 30.0
+    }
+  ],
+  "sum": 30.0
+}

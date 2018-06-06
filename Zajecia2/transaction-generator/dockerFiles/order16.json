@@ -1,0 +1,13 @@
+{
+  "id": 16,
+  "timestamp": "2018-03-08T18:08:03-01:00",
+  "customerId": 1,
+  "items": [
+    {
+      "name": "woda gazowana 1.5l",
+      "quantity": 1,
+      "price": 2.10
+    }
+  ],
+  "sum": 2.10
+}
