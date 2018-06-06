@@ -12,13 +12,13 @@ import java.util.List;
 
 @Service("CSVInputReader")
 public class CSVInputReader {
-    public List<Item> parseItems(){
-       return getCsvToBean().parse();
+    public List<Item> parseItems(String fileName){
+       return getCsvToBean(fileName).parse();
     }
     @SuppressWarnings("unchecked")
-    private CsvToBean<Item> getCsvToBean(){
+    private CsvToBean<Item> getCsvToBean(String fileName){
         try {
-            InputStreamReader isr = new InputStreamReader(getClass().getResourceAsStream("/items.csv"));
+            InputStreamReader isr = new InputStreamReader(getClass().getResourceAsStream(fileName));
             return new CsvToBeanBuilder(isr)
                     .withType(Item.class)
                     .withSeparator(',')

@@ -1,6 +1,6 @@
 package logic;
 
-import logic.IOoperations.InputParser;
+import logic.IOoperations.inputParsers.InputParser;
 import logic.utils.RandomGenerator;
 import logic.utils.Range;
 import model.Item;

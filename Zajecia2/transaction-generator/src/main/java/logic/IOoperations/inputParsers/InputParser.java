@@ -1,10 +1,13 @@
-package logic.IOoperations;
+package logic.IOoperations.inputParsers;
 
+import logic.IOoperations.JsonWriter;
+import logic.IOoperations.OutputWriter;
+import logic.IOoperations.XMLWriter;
+import logic.IOoperations.YamlWriter;
 import logic.utils.ApplicationWrapper;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.core.env.CommandLinePropertySource;
+import org.springframework.core.env.PropertySource;
 import org.springframework.stereotype.Service;
 import logic.utils.RandomGenerator;
 import logic.utils.Range;
@@ -22,8 +25,6 @@ public class InputParser {
     private RandomGenerator randomGenerator;
 
 
-//    public InputParser() {}
-
     public InputParser(ApplicationWrapper wrapper, RandomGenerator generator){
         this.wrapper = wrapper;
         this.randomGenerator = generator;
@@ -33,9 +34,9 @@ public class InputParser {
         Long DEFAULT_LOWER_BOUND = 1L;
         Long DEFAULT_UPPER_BOUND = 20L;
         Range<Long> customerIdRange = new Range<>(DEFAULT_LOWER_BOUND, DEFAULT_UPPER_BOUND);
-        CommandLinePropertySource arguments = (CommandLinePropertySource) wrapper.getWrappedContext().getEnvironment().getPropertySources().get("arguments");
+        PropertySource arguments =  wrapper.getWrappedContext().getEnvironment().getPropertySources().get("arguments");
         if (arguments.containsProperty("customerIds")) {
-            String[] customerIdsStr = arguments.getProperty("customerIds").split(":");
+            String[] customerIdsStr = ((String) arguments.getProperty("customerIds")).split(":");
             logger.info("Trying to parse range of customer ids " + customerIdsStr[0] + ":" + customerIdsStr[1]);
             try {
                 customerIdRange.setLowBound(Long.valueOf(customerIdsStr[0]));
@@ -52,9 +53,9 @@ public class InputParser {
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss.SSSX");
         Range<OffsetDateTime> range = new Range<>(OffsetDateTime.parse(LocalDate.now().toString() + "T00:00:00.000-0100", formatter)
                 , OffsetDateTime.parse(LocalDate.now().toString() + "T23:59:59.999-0100", formatter));
-        CommandLinePropertySource arguments = (CommandLinePropertySource) wrapper.getWrappedContext().getEnvironment().getPropertySources().get("arguments");
+        PropertySource arguments =  wrapper.getWrappedContext().getEnvironment().getPropertySources().get("arguments");
         if (arguments.containsProperty("dateRange")) {
-            String strRange = arguments.getProperty("dateRange");
+            String strRange = (String) arguments.getProperty("dateRange");
             try {
                 String firstDate = strRange.substring(0, 28);
                 String secondDate = strRange.substring(29);
@@ -68,11 +69,11 @@ public class InputParser {
     }
 
     public String getItemsFile() {
-        String itemsFile = "items.csv";
-        CommandLinePropertySource arguments = (CommandLinePropertySource) wrapper.getWrappedContext().getEnvironment().getPropertySources().get("arguments");
+        String itemsFile = "storage/items.csv";
+        PropertySource arguments =  wrapper.getWrappedContext().getEnvironment().getPropertySources().get("arguments");
         if (arguments.containsProperty("itemsFile")) {
             logger.info("Parsing items file name");
-            itemsFile = arguments.getProperty("itemsFile");
+            itemsFile = (String) arguments.getProperty("itemsFile");
         }
         return itemsFile;
     }
@@ -82,9 +83,9 @@ public class InputParser {
         Long DEFAULT_LOW_BOUND = 1L;
         Long DEFAULT_UP_BOUND = 5L;
         Range<Long> itemsCountRange = new Range<>(DEFAULT_LOW_BOUND, DEFAULT_UP_BOUND);
-        CommandLinePropertySource arguments = (CommandLinePropertySource) wrapper.getWrappedContext().getEnvironment().getPropertySources().get("arguments");
+        PropertySource arguments =  wrapper.getWrappedContext().getEnvironment().getPropertySources().get("arguments");
         if (arguments.containsProperty("itemsCount")) {
-            strItemsCountRange = arguments.getProperty("itemsCount").split(":");
+            strItemsCountRange = ((String) arguments.getProperty("itemsCount")).split(":");
             logger.info("Parsing items count range");
             try {
                 itemsCountRange.setLowBound(Long.valueOf(strItemsCountRange[0]));
@@ -101,10 +102,10 @@ public class InputParser {
         Long DEFAULT_LOW_BOUND = 1L;
         Long DEFAULT_UP_BOUND = 30L;
         Range<Long> itemsQuantityRange = new Range<Long>(DEFAULT_LOW_BOUND, DEFAULT_UP_BOUND);
-        CommandLinePropertySource arguments = (CommandLinePropertySource) wrapper.getWrappedContext().getEnvironment().getPropertySources().get("arguments");
+        PropertySource arguments =  wrapper.getWrappedContext().getEnvironment().getPropertySources().get("arguments");
         if (arguments.containsProperty("itemsQuantity")) {
             logger.info("Parsing items quantity range");
-            strItemsQuantity = arguments.getProperty("itemsQuantity").split(":");
+            strItemsQuantity = ((String) arguments.getProperty("itemsQuantity")).split(":");
             try {
                 itemsQuantityRange.setLowBound(Long.valueOf(strItemsQuantity[0]));
                 itemsQuantityRange.setUpBound(Long.valueOf(strItemsQuantity[1]));
@@ -117,11 +118,11 @@ public class InputParser {
 
     public Long getEventsCount() {
         long eventsCount = 1000;
-        CommandLinePropertySource arguments = (CommandLinePropertySource) wrapper.getWrappedContext().getEnvironment().getPropertySources().get("arguments");
+        PropertySource arguments =  wrapper.getWrappedContext().getEnvironment().getPropertySources().get("arguments");
         if (arguments.containsProperty("eventsCount")) {
             logger.info("Parsing events count");
             try {
-                eventsCount = Long.valueOf(arguments.getProperty("eventsCount"));
+                eventsCount = Long.valueOf((String) arguments.getProperty("eventsCount"));
             } catch (NumberFormatException | NullPointerException e) {
                 logger.warn("Wrong argument passed, using default");
             }
@@ -131,19 +132,19 @@ public class InputParser {
 
     public String getOutDir() {
         String outDir = "./";
-        CommandLinePropertySource arguments = (CommandLinePropertySource) wrapper.getWrappedContext().getEnvironment().getPropertySources().get("arguments");
+        PropertySource arguments =  wrapper.getWrappedContext().getEnvironment().getPropertySources().get("arguments");
         if (arguments.containsProperty("outDir")) {
             logger.info("Parsing items file name");
-            outDir = arguments.getProperty("outDir");
+            outDir = (String) arguments.getProperty("outDir");
         }
         return outDir;
     }
 
     public OutputWriter getOutputWriter(){
-        CommandLinePropertySource arguments = (CommandLinePropertySource) wrapper.getWrappedContext().getEnvironment().getPropertySources().get("arguments");
+        PropertySource arguments =  wrapper.getWrappedContext().getEnvironment().getPropertySources().get("arguments");
         if(arguments.containsProperty("format")){
             logger.info("Parsing output format");
-            String format = arguments.getProperty("format");
+            String format = (String) arguments.getProperty("format");
             if("xml".equals(format)){
                 return new XMLWriter();
             }

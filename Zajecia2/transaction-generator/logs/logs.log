@@ -41978,3 +41978,1467 @@
 2018-06-06 18:50:19 INFO  TransactionGenerator:34 - Drawing a random customerId
 2018-06-06 18:50:19 INFO  TransactionGenerator:52 - Drawing a random number of items
 2018-06-06 18:50:19 INFO  TransactionGenerator:34 - Drawing a random customerId
+2018-06-06 21:10:05 INFO  CommandLineInputParser:148 - Parsing output format
+2018-06-06 21:10:05 INFO  CommandLineInputParser:50 - Returning range of customer ids 1:20
+2018-06-06 21:10:05 INFO  CommandLineInputParser:148 - Parsing output format
+2018-06-06 21:10:05 INFO  CommandLineInputParser:125 - Parsing events count
+2018-06-06 21:10:05 INFO  CommandLineInputParser:77 - Parsing items file name
+2018-06-06 21:10:05 INFO  CommandLineInputParser:91 - Parsing items count range
+2018-06-06 21:10:06 INFO  CommandLineInputParser:42 - Trying to parse range of customer ids 1:30
+2018-06-06 21:10:06 INFO  CommandLineInputParser:50 - Returning range of customer ids 1:30
+2018-06-06 21:10:06 INFO  CommandLineInputParser:139 - Parsing items file name
+2018-06-06 21:10:06 INFO  CommandLineInputParser:148 - Parsing output format
+2018-06-06 21:10:06 INFO  CommandLineInputParser:148 - Parsing output format
+2018-06-06 21:10:06 INFO  CommandLineInputParser:109 - Parsing items quantity range
+2018-06-06 21:10:06 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 21:10:06 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 21:10:06 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 21:10:06 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 21:10:06 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 21:10:06 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 21:10:06 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 21:10:06 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 21:10:06 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 21:10:06 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 21:10:06 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 21:29:10 ERROR CommandLineInputParser:27 - Unable to read or load properties file
+2018-06-06 21:29:39 ERROR CommandLineInputParser:27 - Unable to read or load properties file
+2018-06-06 21:30:10 ERROR CommandLineInputParser:27 - Unable to read or load properties file
+2018-06-06 21:30:41 ERROR CommandLineInputParser:27 - Unable to read or load properties file
+2018-06-06 21:34:03 ERROR CommandLineInputParser:27 - Unable to read or load properties file
+2018-06-06 21:34:25 ERROR CommandLineInputParser:27 - Unable to read or load properties file
+2018-06-06 21:41:58 ERROR CommandLineInputParser:27 - Unable to read or load properties file
+2018-06-06 21:42:55 ERROR CommandLineInputParser:27 - Unable to read or load properties file
+2018-06-06 21:51:56 ERROR Application:48 - Couldn't read properties
+2018-06-06 22:05:23 ERROR CommandLineInputParser:27 - Unable to read or load properties file
+2018-06-06 22:06:26 ERROR Application:45 - Couldn't read properties
+2018-06-06 22:11:05 INFO  CommandLineInputParser:43 - Trying to parse range of customer ids 1:2
+2018-06-06 22:11:05 INFO  CommandLineInputParser:51 - Returning range of customer ids 1:2
+2018-06-06 22:11:05 INFO  CommandLineInputParser:149 - Parsing output format
+2018-06-06 22:11:05 INFO  CommandLineInputParser:140 - Parsing items file name
+2018-06-06 22:11:05 INFO  CommandLineInputParser:126 - Parsing events count
+2018-06-06 22:11:05 WARN  OutputWriter:22 - This folder already exists
+2018-06-06 22:14:25 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:14:32 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:14:32 INFO  InputParser:146 - Parsing output format
+2018-06-06 22:14:37 INFO  InputParser:137 - Parsing items file name
+2018-06-06 22:14:37 WARN  OutputWriter:22 - This folder already exists
+2018-06-06 22:14:37 INFO  InputParser:123 - Parsing events count
+2018-06-06 22:14:37 WARN  OutputWriter:22 - This folder already exists
+2018-06-06 22:15:11 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:15:11 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:15:11 INFO  InputParser:146 - Parsing output format
+2018-06-06 22:15:13 INFO  InputParser:137 - Parsing items file name
+2018-06-06 22:15:13 WARN  OutputWriter:22 - This folder already exists
+2018-06-06 22:15:13 INFO  InputParser:123 - Parsing events count
+2018-06-06 22:15:20 WARN  OutputWriter:22 - This folder already exists
+2018-06-06 22:16:02 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:16:02 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:16:03 INFO  InputParser:146 - Parsing output format
+2018-06-06 22:16:03 INFO  InputParser:137 - Parsing items file name
+2018-06-06 22:16:03 INFO  InputParser:123 - Parsing events count
+2018-06-06 22:16:07 WARN  OutputWriter:22 - This folder already exists
+2018-06-06 22:17:25 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:17:25 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:17:25 INFO  InputParser:146 - Parsing output format
+2018-06-06 22:17:25 INFO  InputParser:137 - Parsing items file name
+2018-06-06 22:17:25 WARN  OutputWriter:22 - This folder already exists
+2018-06-06 22:17:25 INFO  InputParser:123 - Parsing events count
+2018-06-06 22:17:25 WARN  OutputWriter:22 - This folder already exists
+2018-06-06 22:17:25 WARN  InputParser:65 - The date format is incorrect. Use "yyyy-MM-dd'T'HH:mm:ss.SSSXXXX";"yyyy-MM-dd'T'HH:mm:ss.SSSXXXX" for date range. Using default date range
+2018-06-06 22:17:25 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:17:25 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:17:25 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:17:25 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:17:25 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:17:25 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:17:25 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:17:25 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:17:25 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:17:25 WARN  InputParser:65 - The date format is incorrect. Use "yyyy-MM-dd'T'HH:mm:ss.SSSXXXX";"yyyy-MM-dd'T'HH:mm:ss.SSSXXXX" for date range. Using default date range
+2018-06-06 22:17:25 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:17:25 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:17:25 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:17:25 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:17:25 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:17:25 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:17:25 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:17:25 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:17:25 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:17:25 WARN  InputParser:65 - The date format is incorrect. Use "yyyy-MM-dd'T'HH:mm:ss.SSSXXXX";"yyyy-MM-dd'T'HH:mm:ss.SSSXXXX" for date range. Using default date range
+2018-06-06 22:17:25 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:17:25 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:17:25 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:17:25 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:17:25 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:17:25 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:17:25 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:17:25 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:17:25 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:17:25 WARN  InputParser:65 - The date format is incorrect. Use "yyyy-MM-dd'T'HH:mm:ss.SSSXXXX";"yyyy-MM-dd'T'HH:mm:ss.SSSXXXX" for date range. Using default date range
+2018-06-06 22:17:25 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:17:25 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:17:25 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:17:25 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:17:25 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:17:25 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:17:25 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:17:25 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:17:25 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:17:25 WARN  InputParser:65 - The date format is incorrect. Use "yyyy-MM-dd'T'HH:mm:ss.SSSXXXX";"yyyy-MM-dd'T'HH:mm:ss.SSSXXXX" for date range. Using default date range
+2018-06-06 22:17:25 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:17:25 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:17:25 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:17:25 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:17:25 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:17:25 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:17:25 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:17:25 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:17:25 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:17:25 WARN  InputParser:65 - The date format is incorrect. Use "yyyy-MM-dd'T'HH:mm:ss.SSSXXXX";"yyyy-MM-dd'T'HH:mm:ss.SSSXXXX" for date range. Using default date range
+2018-06-06 22:17:25 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:17:25 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:17:25 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:17:25 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:17:25 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:17:25 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:17:25 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:17:25 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:17:25 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:17:25 WARN  InputParser:65 - The date format is incorrect. Use "yyyy-MM-dd'T'HH:mm:ss.SSSXXXX";"yyyy-MM-dd'T'HH:mm:ss.SSSXXXX" for date range. Using default date range
+2018-06-06 22:17:25 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:17:25 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:17:25 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:17:25 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:17:25 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:17:25 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:17:25 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:17:25 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:17:25 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:17:25 WARN  InputParser:65 - The date format is incorrect. Use "yyyy-MM-dd'T'HH:mm:ss.SSSXXXX";"yyyy-MM-dd'T'HH:mm:ss.SSSXXXX" for date range. Using default date range
+2018-06-06 22:17:25 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:17:25 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:17:25 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:17:25 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:17:25 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:17:25 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:17:25 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:17:25 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:17:25 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:17:25 WARN  InputParser:65 - The date format is incorrect. Use "yyyy-MM-dd'T'HH:mm:ss.SSSXXXX";"yyyy-MM-dd'T'HH:mm:ss.SSSXXXX" for date range. Using default date range
+2018-06-06 22:17:25 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:17:25 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:17:25 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:17:25 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:17:25 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:17:25 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:17:25 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:17:25 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:17:25 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:17:25 WARN  InputParser:65 - The date format is incorrect. Use "yyyy-MM-dd'T'HH:mm:ss.SSSXXXX";"yyyy-MM-dd'T'HH:mm:ss.SSSXXXX" for date range. Using default date range
+2018-06-06 22:17:25 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:17:25 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:17:25 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:17:25 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:17:25 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:17:25 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:17:25 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:17:25 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:17:25 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:18:46 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:18:46 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:18:46 INFO  InputParser:146 - Parsing output format
+2018-06-06 22:18:47 INFO  InputParser:137 - Parsing items file name
+2018-06-06 22:18:47 WARN  OutputWriter:22 - This folder already exists
+2018-06-06 22:18:47 INFO  InputParser:123 - Parsing events count
+2018-06-06 22:18:49 WARN  OutputWriter:22 - This folder already exists
+2018-06-06 22:19:32 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:19:32 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:19:32 INFO  InputParser:146 - Parsing output format
+2018-06-06 22:19:33 INFO  InputParser:137 - Parsing items file name
+2018-06-06 22:19:33 WARN  OutputWriter:22 - This folder already exists
+2018-06-06 22:19:33 INFO  InputParser:123 - Parsing events count
+2018-06-06 22:19:35 WARN  OutputWriter:22 - This folder already exists
+2018-06-06 22:19:38 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:19:38 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:19:38 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:19:38 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:19:38 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:19:38 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:19:38 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:19:38 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:19:38 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:19:58 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:19:58 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:19:58 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:19:58 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:19:58 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:19:58 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:19:58 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:19:58 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:19:58 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:19:58 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:19:58 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:19:58 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:19:58 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:19:58 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:19:58 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:19:58 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:19:58 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:19:58 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:19:58 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:19:58 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:19:58 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:19:58 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:19:58 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:19:58 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:19:58 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:19:58 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:19:58 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:19:58 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:19:58 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:19:58 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:19:58 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:19:58 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:19:58 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:19:58 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:19:58 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:19:58 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:19:58 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:19:58 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:19:58 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:19:58 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:19:58 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:19:58 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:19:58 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:19:58 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:19:58 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:19:58 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:19:58 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:19:58 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:19:58 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:19:58 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:19:58 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:19:58 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:19:58 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:19:58 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:19:58 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:19:58 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:19:58 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:19:58 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:19:58 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:19:58 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:19:58 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:19:58 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:19:58 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:19:58 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:19:58 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:19:58 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:19:58 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:19:58 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:19:58 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:19:58 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:19:58 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:19:58 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:19:58 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:19:58 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:19:58 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:19:58 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:19:58 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:19:58 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:19:58 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:19:58 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:19:58 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:19:58 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:19:58 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:19:58 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:19:58 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:19:58 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:19:58 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:19:58 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:19:58 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:19:58 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:19:58 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:19:58 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:19:58 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:19:58 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:19:58 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:19:58 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:19:58 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:19:58 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:19:58 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:19:58 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:19:58 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:19:58 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:19:58 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:19:58 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:19:58 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:19:58 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:19:58 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:19:58 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:19:58 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:19:58 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:19:58 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:19:58 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:19:58 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:19:58 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:19:58 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:19:58 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:19:58 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:19:58 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:19:58 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:19:58 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:19:58 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:19:58 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:19:58 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:19:58 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:19:58 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:19:58 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:19:58 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:19:58 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:19:58 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:19:58 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:19:58 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:19:58 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:19:58 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:19:58 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:19:58 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:19:58 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:19:58 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:19:58 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:19:58 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:19:58 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:19:58 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:19:58 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:19:58 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:19:58 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:19:58 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:19:58 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:19:58 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:19:58 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:19:58 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:19:58 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:19:58 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:19:58 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:19:58 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:19:58 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:19:58 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:19:58 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:19:58 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:19:58 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:19:58 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:19:58 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:19:58 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:19:58 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:19:58 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:19:58 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:19:58 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:19:58 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:19:58 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:19:58 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:19:58 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:19:58 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:19:58 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:19:58 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:19:58 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:19:58 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:19:58 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:19:58 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:19:58 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:19:58 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:19:58 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:19:58 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:20:33 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:20:33 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:20:33 INFO  InputParser:146 - Parsing output format
+2018-06-06 22:20:33 INFO  InputParser:137 - Parsing items file name
+2018-06-06 22:20:33 WARN  OutputWriter:22 - This folder already exists
+2018-06-06 22:20:33 INFO  InputParser:123 - Parsing events count
+2018-06-06 22:20:33 WARN  OutputWriter:22 - This folder already exists
+2018-06-06 22:20:33 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:20:33 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:20:33 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:20:33 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:20:33 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:20:33 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:20:33 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:20:33 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:20:33 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:20:33 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:20:33 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:20:33 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:20:33 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:20:33 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:20:33 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:20:33 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:20:33 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:20:33 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:20:33 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:20:33 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:20:33 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:20:33 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:20:33 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:20:33 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:20:33 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:20:33 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:20:33 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:20:33 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:20:33 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:20:33 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:20:33 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:20:33 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:20:33 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:20:33 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:20:33 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:20:33 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:20:33 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:20:33 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:20:33 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:20:33 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:20:33 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:20:33 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:20:33 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:20:33 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:20:33 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:20:33 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:20:33 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:20:33 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:20:33 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:20:33 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:20:33 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:20:33 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:20:33 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:20:33 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:20:33 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:20:33 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:20:33 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:20:33 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:20:33 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:20:33 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:20:33 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:20:33 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:20:33 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:20:33 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:20:33 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:20:33 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:20:33 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:20:33 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:20:33 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:20:33 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:20:33 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:20:33 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:20:33 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:20:33 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:20:33 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:20:33 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:20:33 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:20:33 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:20:33 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:20:33 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:20:33 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:20:33 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:20:33 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:20:33 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:20:33 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:20:33 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:20:33 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:20:33 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:20:33 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:20:33 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:20:33 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:20:33 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:20:33 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:20:33 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:20:33 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:20:33 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:20:33 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:20:33 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:20:33 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:20:33 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:20:33 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:20:33 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:20:33 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:20:33 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:20:33 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:20:33 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:20:33 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:20:33 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:20:33 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:20:33 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:20:33 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:20:33 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:20:33 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:20:33 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:20:33 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:20:33 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:20:33 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:20:33 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:20:33 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:20:33 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:20:33 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:20:33 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:20:33 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:20:33 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:20:33 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:20:33 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:20:33 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:20:33 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:20:33 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:20:33 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:20:33 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:20:33 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:20:33 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:20:33 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:20:33 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:20:33 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:20:33 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:20:33 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:20:33 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:20:33 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:20:33 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:20:33 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:20:33 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:20:33 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:20:33 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:20:33 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:20:33 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:20:33 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:20:33 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:20:33 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:20:33 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:20:33 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:20:33 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:20:33 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:20:33 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:20:33 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:20:33 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:20:33 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:20:33 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:20:33 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:20:33 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:20:33 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:20:33 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:20:33 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:20:33 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:20:33 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:20:33 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:20:33 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:20:33 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:20:33 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:20:33 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:20:33 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:20:33 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:20:33 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:20:33 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:20:33 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:20:33 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:20:33 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:20:33 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:20:33 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:20:33 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:20:33 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:20:33 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:20:33 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:20:33 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:20:33 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:20:33 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:20:33 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:20:33 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:20:33 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:20:33 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:20:33 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:20:33 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:20:33 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:20:33 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:20:33 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:20:33 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:20:33 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:20:33 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:20:33 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:20:33 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:20:33 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:20:33 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:20:33 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:20:33 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:20:33 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:20:33 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:20:33 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:20:33 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:20:33 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:20:33 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:20:33 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:20:33 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:20:33 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:20:33 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:20:33 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:20:33 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:20:33 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:20:33 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:20:33 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:20:33 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:20:33 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:20:33 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:20:33 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:20:33 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:146 - Parsing output format
+2018-06-06 22:21:49 INFO  InputParser:137 - Parsing items file name
+2018-06-06 22:21:49 WARN  OutputWriter:22 - This folder already exists
+2018-06-06 22:21:49 INFO  InputParser:123 - Parsing events count
+2018-06-06 22:21:49 WARN  OutputWriter:22 - This folder already exists
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order0.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order1.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order2.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order3.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order4.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order5.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order6.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order7.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order8.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order9.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order10.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order11.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order12.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order13.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order14.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order15.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order16.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order17.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order18.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order19.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order20.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order21.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order22.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order23.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order24.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order25.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order26.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order27.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order28.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order29.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order30.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order31.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order32.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order33.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order34.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:21:49 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order35.json
+2018-06-06 22:21:49 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:21:49 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:21:49 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:21:49 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:21:49 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:21:49 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:21:49 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:21:49 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:21:49 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:22:15 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:22:15 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:22:15 INFO  InputParser:146 - Parsing output format
+2018-06-06 22:22:31 INFO  InputParser:137 - Parsing items file name
+2018-06-06 22:22:31 WARN  OutputWriter:22 - This folder already exists
+2018-06-06 22:22:31 INFO  InputParser:123 - Parsing events count
+2018-06-06 22:22:31 WARN  OutputWriter:22 - This folder already exists
+2018-06-06 22:22:40 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order0.json
+2018-06-06 22:22:48 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:22:48 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:22:48 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:22:48 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:22:48 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:22:48 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:22:48 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:22:48 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:22:48 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:22:50 INFO  OutputWriter:24 - Trying to save JSON file of name \storage\order1.json
+2018-06-06 22:23:10 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:23:10 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:23:10 INFO  InputParser:146 - Parsing output format
+2018-06-06 22:23:10 INFO  InputParser:137 - Parsing items file name
+2018-06-06 22:23:10 INFO  InputParser:123 - Parsing events count
+2018-06-06 22:23:10 WARN  OutputWriter:22 - This folder already exists
+2018-06-06 22:23:10 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order0.json
+2018-06-06 22:23:10 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:23:10 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:23:10 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:23:10 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:23:10 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:23:10 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:23:10 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:23:10 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:23:10 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:23:10 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order1.json
+2018-06-06 22:23:10 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:23:10 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:23:10 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:23:10 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:23:10 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:23:10 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:23:10 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:23:10 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:23:10 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:23:10 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order2.json
+2018-06-06 22:23:10 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:23:10 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:23:10 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:23:10 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:23:10 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:23:10 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:23:10 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:23:10 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:23:10 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:23:10 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order3.json
+2018-06-06 22:23:10 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:23:10 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:23:10 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:23:10 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:23:10 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:23:10 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:23:10 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:23:10 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:23:10 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:23:10 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order4.json
+2018-06-06 22:23:10 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:23:10 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:23:10 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:23:10 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:23:10 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:23:10 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:23:10 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:23:10 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:23:10 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:23:10 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order5.json
+2018-06-06 22:23:10 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:23:10 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:23:10 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:23:10 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:23:10 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:23:10 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:23:10 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:23:10 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:23:10 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:23:10 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order6.json
+2018-06-06 22:23:10 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:23:10 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:23:10 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:23:10 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:23:10 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:23:10 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:23:10 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:23:10 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:23:10 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:23:10 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order7.json
+2018-06-06 22:23:10 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:23:10 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:23:10 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:23:10 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:23:10 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:23:10 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:23:10 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:23:10 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:23:10 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:23:10 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order8.json
+2018-06-06 22:23:10 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:23:10 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:23:10 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:23:10 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:23:10 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:23:10 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:23:10 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:23:10 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:23:10 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:23:10 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order9.json
+2018-06-06 22:23:10 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:23:10 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:23:10 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:23:10 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:23:10 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:23:10 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:23:10 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:23:10 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:23:10 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:23:10 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order10.json
+2018-06-06 22:23:10 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:23:10 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:23:10 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:23:10 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:23:10 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:23:10 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:23:10 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:23:10 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:23:10 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:23:10 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order11.json
+2018-06-06 22:23:10 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:23:10 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:23:10 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:23:10 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:23:10 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:23:10 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:23:10 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:23:10 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:23:10 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:23:10 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order12.json
+2018-06-06 22:23:10 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:23:10 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:23:10 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:23:10 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:23:10 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:23:10 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:23:10 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:23:10 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:23:10 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:23:10 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order13.json
+2018-06-06 22:23:10 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:23:10 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:23:10 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:23:10 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:23:10 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:23:10 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:23:10 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:23:10 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:23:10 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:23:11 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order14.json
+2018-06-06 22:23:11 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:23:11 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:23:11 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:23:11 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:23:11 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:23:11 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:23:11 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:23:11 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:23:11 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:23:11 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order15.json
+2018-06-06 22:23:11 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:23:11 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:23:11 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:23:11 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:23:11 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:23:11 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:23:11 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:23:11 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:23:11 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:27:17 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:27:17 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:27:17 INFO  InputParser:75 - Parsing items file name
+2018-06-06 22:27:55 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:27:55 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:27:55 INFO  InputParser:75 - Parsing items file name
+2018-06-06 22:28:26 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:28:26 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:28:26 INFO  InputParser:75 - Parsing items file name
+2018-06-06 22:28:26 INFO  InputParser:146 - Parsing output format
+2018-06-06 22:28:26 INFO  InputParser:137 - Parsing items file name
+2018-06-06 22:28:26 INFO  InputParser:123 - Parsing events count
+2018-06-06 22:28:26 WARN  OutputWriter:22 - This folder already exists
+2018-06-06 22:28:26 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order0.json
+2018-06-06 22:28:26 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:28:26 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:28:26 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:28:26 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:28:26 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:28:26 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:28:26 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:28:26 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:28:26 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:28:41 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:28:41 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:28:41 INFO  InputParser:75 - Parsing items file name
+2018-06-06 22:28:41 INFO  InputParser:146 - Parsing output format
+2018-06-06 22:28:41 INFO  InputParser:137 - Parsing items file name
+2018-06-06 22:28:41 WARN  OutputWriter:22 - This folder already exists
+2018-06-06 22:28:41 INFO  InputParser:123 - Parsing events count
+2018-06-06 22:28:41 WARN  OutputWriter:22 - This folder already exists
+2018-06-06 22:28:41 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order0.json
+2018-06-06 22:28:41 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:28:41 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:28:41 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:28:41 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:28:41 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:28:41 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:28:41 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:28:41 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:28:41 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:28:41 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order1.json
+2018-06-06 22:28:41 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:28:41 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:28:41 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:28:41 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:28:41 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:28:41 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:28:41 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:28:41 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:28:41 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:28:41 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order2.json
+2018-06-06 22:28:41 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:28:41 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:28:41 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:28:41 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:28:41 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:28:41 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:28:41 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:28:41 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:28:41 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:28:41 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order3.json
+2018-06-06 22:28:41 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:28:41 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:28:41 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:28:41 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:28:41 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:28:41 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:28:41 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:28:41 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:28:41 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:28:41 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order4.json
+2018-06-06 22:28:41 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:28:41 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:28:41 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:28:41 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:28:41 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:28:41 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:28:41 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:28:41 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:28:41 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:28:41 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order5.json
+2018-06-06 22:28:41 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:28:41 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:28:41 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:28:41 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:28:41 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:28:41 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:28:41 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:28:41 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:28:41 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:28:41 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order6.json
+2018-06-06 22:28:41 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:28:41 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:28:41 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:28:41 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:28:41 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:28:41 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:28:41 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:28:41 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:28:41 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:28:41 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order7.json
+2018-06-06 22:28:41 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:28:41 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:28:41 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:28:41 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:28:41 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:28:41 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:28:41 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:28:41 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:28:41 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:28:41 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order8.json
+2018-06-06 22:28:41 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:28:41 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:28:41 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:28:41 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:28:41 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:28:41 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:28:41 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:28:41 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:28:41 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:28:41 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order9.json
+2018-06-06 22:28:41 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:28:41 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:28:41 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:28:41 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:28:41 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:28:41 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:28:41 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:28:41 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:28:41 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:28:41 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order10.json
+2018-06-06 22:28:41 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:28:41 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:28:41 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:28:41 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:28:41 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:28:41 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:28:41 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:28:41 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:28:41 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:28:41 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order11.json
+2018-06-06 22:28:41 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:28:41 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:28:41 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:28:41 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:28:41 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:28:41 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:28:41 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:28:41 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:28:41 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:28:41 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order12.json
+2018-06-06 22:28:41 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:28:41 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:28:41 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:28:41 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:28:41 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:28:41 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:28:41 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:28:41 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:28:41 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:28:41 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order13.json
+2018-06-06 22:28:41 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:28:41 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:28:41 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:28:41 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:28:41 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:28:41 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:28:41 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:28:41 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:28:41 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:28:41 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order14.json
+2018-06-06 22:28:41 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:28:41 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:28:41 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:28:41 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:28:41 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:28:41 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:28:41 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:28:41 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:28:41 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:28:41 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order15.json
+2018-06-06 22:28:41 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:28:41 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:28:41 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:28:41 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:28:41 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:28:41 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:28:41 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:28:41 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:28:41 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:28:41 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order16.json
+2018-06-06 22:28:41 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:28:41 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:28:41 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:28:41 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:28:41 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:28:41 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:28:41 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:28:41 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:28:41 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:28:41 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order17.json
+2018-06-06 22:28:41 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:28:41 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:28:41 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:28:41 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:28:41 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:28:41 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:28:41 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:28:41 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:28:41 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:28:41 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order18.json
+2018-06-06 22:28:41 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:28:41 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:28:41 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:28:41 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:28:41 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:28:41 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:28:41 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:28:41 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:28:41 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:28:41 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order19.json
+2018-06-06 22:28:41 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:28:41 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:28:41 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:28:41 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:28:41 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:28:41 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:28:41 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:28:41 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:28:41 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:28:41 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order20.json
+2018-06-06 22:28:41 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:28:41 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:28:41 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:28:41 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:28:41 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:28:41 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:28:41 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:28:41 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:28:41 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:28:41 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order21.json
+2018-06-06 22:28:41 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:28:41 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:28:41 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:28:41 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:28:41 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:28:41 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:28:41 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:28:41 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:28:41 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:28:41 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order22.json
+2018-06-06 22:28:41 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:28:41 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:28:41 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:28:41 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:28:41 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:28:41 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:28:41 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:28:41 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:28:41 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:28:41 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order23.json
+2018-06-06 22:28:41 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:28:41 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:28:41 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:28:41 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:28:41 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:28:41 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:28:41 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:28:41 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:28:41 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:28:41 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order24.json
+2018-06-06 22:28:41 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:28:41 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:28:41 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:28:41 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:28:41 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:28:41 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:28:41 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:28:41 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:28:41 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:28:41 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order25.json
+2018-06-06 22:28:41 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:28:41 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:28:41 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:28:41 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:28:41 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:28:41 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:28:41 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:28:41 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:28:41 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:28:41 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order26.json
+2018-06-06 22:28:41 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:28:41 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:28:41 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:28:41 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:28:41 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:28:41 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:28:41 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:28:41 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:28:41 INFO  TransactionGenerator:76 - Creating an item on list
+2018-06-06 22:28:41 INFO  OutputWriter:24 - Trying to save JSON file of name .\storage\order27.json
+2018-06-06 22:28:41 INFO  TransactionGenerator:44 - Drawing a random date
+2018-06-06 22:28:41 INFO  InputParser:40 - Trying to parse range of customer ids 1:2
+2018-06-06 22:28:41 INFO  InputParser:48 - Returning range of customer ids 1:2
+2018-06-06 22:28:41 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-06 22:28:41 INFO  InputParser:89 - Parsing items count range
+2018-06-06 22:28:41 INFO  TransactionGenerator:50 - Drawing a random number of items
+2018-06-06 22:28:41 INFO  InputParser:107 - Parsing items quantity range
+2018-06-06 22:28:41 INFO  TransactionGenerator:57 - Drawing random quantity of an item
+2018-06-06 22:28:41 INFO  TransactionGenerator:76 - Creating an item on list

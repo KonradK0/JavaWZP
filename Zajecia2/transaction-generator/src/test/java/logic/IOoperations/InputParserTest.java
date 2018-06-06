@@ -1,6 +1,7 @@
 package logic.IOoperations;
 
 import launchers.Application;
+import logic.IOoperations.inputParsers.InputParser;
 import logic.utils.ApplicationWrapper;
 import org.junit.Assert;
 import org.junit.Rule;
@@ -101,7 +102,7 @@ public class InputParserTest {
         InputParser uut = new InputParser(applicationWrapper, generator);
 
 
-        Assert.assertEquals(uut.getItemsFile(), "items.csv");
+        Assert.assertEquals(uut.getItemsFile(), "storage/items.csv");
     }
 
     @Test

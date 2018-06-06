@@ -4,10 +4,8 @@ import java.math.BigDecimal;
 import java.time.*;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Random;
-import java.util.concurrent.ThreadLocalRandom;
 
-import logic.IOoperations.InputParser;
+import logic.IOoperations.inputParsers.InputParser;
 import logic.utils.RandomGenerator;
 import model.Transaction;
 import model.Item;
