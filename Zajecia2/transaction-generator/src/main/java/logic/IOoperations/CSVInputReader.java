@@ -5,6 +5,7 @@ import com.opencsv.bean.CsvToBeanBuilder;
 import model.Item;
 import org.springframework.stereotype.Service;
 
+import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.UncheckedIOException;
@@ -18,7 +19,7 @@ public class CSVInputReader {
     @SuppressWarnings("unchecked")
     private CsvToBean<Item> getCsvToBean(String fileName){
         try {
-            InputStreamReader isr = new InputStreamReader(getClass().getResourceAsStream(fileName));
+            InputStreamReader isr = new InputStreamReader(new FileInputStream("/storage/items.csv"));
             return new CsvToBeanBuilder(isr)
                     .withType(Item.class)
                     .withSeparator(',')

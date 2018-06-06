@@ -4,6 +4,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.springframework.stereotype.Service;
 
+import java.io.FileInputStream;
 import java.io.InputStream;
 import java.util.Properties;
 
@@ -15,7 +16,7 @@ public class PropertiesInputParser {
 
     public PropertiesInputParser(){
         try {
-            InputStream input = getClass().getResourceAsStream("/generator.properties");
+            InputStream input = new FileInputStream("storage/generator.properties");
             properties.load(input);
         } catch (java.io.IOException e) {
             logger.error("Unable to read or load properties file");
