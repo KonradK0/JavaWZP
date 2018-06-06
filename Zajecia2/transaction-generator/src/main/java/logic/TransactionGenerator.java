@@ -40,7 +40,7 @@ public class TransactionGenerator {
         Duration between = Duration.between(range.getLowBound(), range.getUpBound());
         LocalDateTime localDateTime = LocalDateTime.ofEpochSecond(randomGenerator.getRandomLong
                         (range.getLowBound().toEpochSecond(), range.getLowBound().plusSeconds(between.getSeconds()).toEpochSecond())
-                ,0
+                , 0
                 , range.getLowBound().getOffset());
         OffsetDateTime randomDate = OffsetDateTime.of(localDateTime, range.getLowBound().getOffset());
         logger.info("Drawing a random date");
@@ -61,10 +61,16 @@ public class TransactionGenerator {
 
     }
 
-    public Transaction generateTransaction(List<Item> itemList, int id){
+    public Transaction generateTransaction(List<Item> itemList, int id) {
         String timestamp = generateDate();
         long customerId = generateId();
         long itemsCount = generateNumberOfItems();
+        ArrayList<Item> items = getItems(itemList, itemsCount);
+        return new Transaction(id, timestamp, customerId, items, computeSum(items));
+    }
+
+    ArrayList<Item> getItems(List<Item> itemList, long itemsCount) {
+        if (itemList == null) return null;
         ArrayList<Item> items = new ArrayList<>();
         for (int j = 0; j < itemsCount; j++) {
             Item item = itemList.get(randomGenerator.getRandomLong(0, itemList.size()).intValue());
@@ -72,13 +78,14 @@ public class TransactionGenerator {
             logger.info("Creating an item on list");
             items.add(item);
         }
-        return new Transaction(id, timestamp, customerId, items, computeSum(items));
+        return items;
     }
 
-    private BigDecimal computeSum(List<Item> list){
-        BigDecimal sum = new BigDecimal(0);
-        for(Item item : list){
-            sum = sum.add(item.getPrice());
+    BigDecimal computeSum(List<Item> list) {
+        if (list == null) return BigDecimal.ZERO;
+        BigDecimal sum = BigDecimal.ZERO;
+        for (Item item : list) {
+            sum = sum.add(item.getPrice().multiply(BigDecimal.valueOf(item.getQuantity())));
         }
         return sum;
     }

@@ -35,4 +35,13 @@ public class Item implements Serializable{
     public BigDecimal getPrice() {
         return price;
     }
+
+    @Override
+    public String toString() {
+        return "Item{" +
+                "name='" + name + '\'' +
+                ", quantity=" + quantity +
+                ", price=" + price +
+                '}';
+    }
 }

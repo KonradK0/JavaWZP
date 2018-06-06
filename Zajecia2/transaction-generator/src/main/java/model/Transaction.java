@@ -49,4 +49,26 @@ public class Transaction implements Serializable {
                 ", sum=" + sum +
                 '}';
     }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+
+        Transaction that = (Transaction) o;
+
+        if (id != that.id) return false;
+        if (customerId != that.customerId) return false;
+        if (items != null ? !items.equals(that.items) : that.items != null) return false;
+        return sum.equals(that.sum);
+    }
+
+    @Override
+    public int hashCode() {
+        int result = (int) (id ^ (id >>> 32));
+        result = 31 * result + (int) (customerId ^ (customerId >>> 32));
+        result = 31 * result + (items != null ? items.hashCode() : 0);
+        result = 31 * result + sum.hashCode();
+        return result;
+    }
 }

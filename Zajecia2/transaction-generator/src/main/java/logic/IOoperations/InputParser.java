@@ -56,8 +56,10 @@ public class InputParser {
         if (arguments.containsProperty("dateRange")) {
             String strRange = arguments.getProperty("dateRange");
             try {
-                range.setLowBound(OffsetDateTime.parse(strRange.substring(0,28), formatter));
-                range.setUpBound(OffsetDateTime.parse(strRange.substring(29), formatter));
+                String firstDate = strRange.substring(0, 28);
+                String secondDate = strRange.substring(29);
+                range.setLowBound(OffsetDateTime.parse(firstDate, formatter));
+                range.setUpBound(OffsetDateTime.parse(secondDate, formatter));
             } catch (DateTimeParseException e) {
                 logger.warn("The date format is incorrect. Use \"yyyy-MM-dd'T'HH:mm:ss.SSSXXXX\";\"yyyy-MM-dd'T'HH:mm:ss.SSSXXXX\" for date range. Using default date range");
             }
