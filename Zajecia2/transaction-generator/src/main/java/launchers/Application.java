@@ -64,8 +64,10 @@ public class Application {
         PropertiesInputParser parser = new PropertiesInputParser();
         Properties properties = parser.getProperties();
         Map<String, Object> map = new HashMap<>();
-        for (final String name : properties.stringPropertyNames())
+        for (final String name : properties.stringPropertyNames()) {
+            logger.debug("Adding map property " + name + " => " + properties.getProperty(name));
             map.put(name, properties.getProperty(name));
+        }
         MapPropertySource propertySource = new MapPropertySource("arguments", map);
         AnnotationConfigApplicationContext ctx = new AnnotationConfigApplicationContext();
         ctx.getEnvironment().getPropertySources().addFirst(propertySource);
