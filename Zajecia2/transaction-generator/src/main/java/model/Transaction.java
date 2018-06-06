@@ -1,6 +1,7 @@
 package model;
 
 import java.io.Serializable;
+import java.math.BigDecimal;
 import java.util.ArrayList;
 
 public class Transaction implements Serializable {
@@ -8,9 +9,9 @@ public class Transaction implements Serializable {
     private String timestamp;
     private long customerId;
     private ArrayList<Item> items;
-    private double sum;
+    private BigDecimal sum;
 
-    public Transaction(long id, String timestamp, long customerId, ArrayList<Item> items, double sum) {
+    public Transaction(long id, String timestamp, long customerId, ArrayList<Item> items, BigDecimal sum) {
         this.id = id;
         this.timestamp = timestamp;
         this.customerId = customerId;
@@ -34,7 +35,7 @@ public class Transaction implements Serializable {
         return items;
     }
 
-    public double getSum() {
+    public BigDecimal getSum() {
         return sum;
     }
 }
