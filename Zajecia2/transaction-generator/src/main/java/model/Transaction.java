@@ -38,4 +38,15 @@ public class Transaction implements Serializable {
     public BigDecimal getSum() {
         return sum;
     }
+
+    @Override
+    public String toString() {
+        return "Transaction{" +
+                "id=" + id +
+                ", timestamp='" + timestamp + '\'' +
+                ", customerId=" + customerId +
+                ", items=" + items +
+                ", sum=" + sum +
+                '}';
+    }
 }

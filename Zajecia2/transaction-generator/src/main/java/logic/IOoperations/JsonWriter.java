@@ -17,6 +17,7 @@ import java.util.List;
 @Service
 public class JsonWriter implements OutputWriter {
     public void saveToFile(long eventsCount, String outDir, TransactionGenerator transactionGenerator, List<Item> itemList) {
+        createOutDir(outDir);
         for (int i = 0; i < eventsCount; i++) {
             Path outPath = Paths.get(outDir, "order" + i + ".json");
             try (BufferedWriter writer = Files.newBufferedWriter(outPath)) {

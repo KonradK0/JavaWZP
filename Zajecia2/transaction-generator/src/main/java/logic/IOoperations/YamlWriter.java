@@ -18,6 +18,7 @@ public class YamlWriter implements OutputWriter {
     public void saveToFile(long eventsCount, String outDir, TransactionGenerator transactionGenerator, List<Item> itemList) {
         YAMLMapper mapper = new YAMLMapper();
         mapper.setDefaultPrettyPrinter(new DefaultPrettyPrinter());
+        createOutDir(outDir);
         for (int i = 0;  i < eventsCount; i++) {
             Path outPath = Paths.get(outDir, "order" + i +".yaml");
             try (BufferedWriter bufferedWriter = Files.newBufferedWriter(outPath)){

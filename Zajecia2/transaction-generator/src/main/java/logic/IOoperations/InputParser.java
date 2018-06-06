@@ -49,18 +49,15 @@ public class InputParser {
     }
 
     public Range<OffsetDateTime> getDateRange() {
-        String[] strRange;
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss.SSSX");
         Range<OffsetDateTime> range = new Range<>(OffsetDateTime.parse(LocalDate.now().toString() + "T00:00:00.000-0100", formatter)
                 , OffsetDateTime.parse(LocalDate.now().toString() + "T23:59:59.999-0100", formatter));
         CommandLinePropertySource arguments = (CommandLinePropertySource) wrapper.getWrappedContext().getEnvironment().getPropertySources().get("arguments");
         if (arguments.containsProperty("dateRange")) {
-            strRange = arguments.getProperty("dateRange").split("\":\"");
-            strRange[0] = strRange[0].replace("\"", "");
-            strRange[1] = strRange[1].replace("\"", "");
+            String strRange = arguments.getProperty("dateRange");
             try {
-                range.setLowBound(OffsetDateTime.parse(strRange[0], formatter));
-                range.setUpBound(OffsetDateTime.parse(strRange[1], formatter));
+                range.setLowBound(OffsetDateTime.parse(strRange.substring(0,28), formatter));
+                range.setUpBound(OffsetDateTime.parse(strRange.substring(29), formatter));
             } catch (DateTimeParseException e) {
                 logger.warn("The date format is incorrect. Use \"yyyy-MM-dd'T'HH:mm:ss.SSSXXXX\";\"yyyy-MM-dd'T'HH:mm:ss.SSSXXXX\" for date range. Using default date range");
             }
@@ -131,7 +128,7 @@ public class InputParser {
     }
 
     public String getOutDir() {
-        String outDir = "";
+        String outDir = "./";
         CommandLinePropertySource arguments = (CommandLinePropertySource) wrapper.getWrappedContext().getEnvironment().getPropertySources().get("arguments");
         if (arguments.containsProperty("outDir")) {
             logger.info("Parsing items file name");

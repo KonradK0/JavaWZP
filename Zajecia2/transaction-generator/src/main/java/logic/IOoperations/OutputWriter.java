@@ -17,7 +17,6 @@ public interface OutputWriter {
     Logger logger = LogManager.getLogger(OutputWriter.class.getName());
     default void createOutDir(String outDir){
         try {
-            cleanOutDir(outDir);
             Files.createDirectory(Paths.get(outDir));
         } catch (FileAlreadyExistsException e) {
             logger.warn("This folder already exists");
@@ -27,18 +26,5 @@ public interface OutputWriter {
             logger.warn("Unidentified IOException");
         }
     }
-
-    default void cleanOutDir(String outDir) throws IOException{
-        if(Files.exists(Paths.get(outDir))){
-            Files.walk(Paths.get(outDir)).forEach(f -> {
-                try {
-                    Files.delete(f);
-                } catch (IOException e) {
-                    e.printStackTrace();
-                }
-            });
-        }
-    }
-
     void saveToFile(long eventsCount, String outDir, TransactionGenerator transactionGenerator, List<Item> itemList);
 }
