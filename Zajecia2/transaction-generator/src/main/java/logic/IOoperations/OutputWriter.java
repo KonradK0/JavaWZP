@@ -2,6 +2,7 @@ package logic.IOoperations;
 
 import logic.TransactionGenerator;
 import model.Item;
+import model.Transaction;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -26,5 +27,5 @@ public interface OutputWriter {
             logger.warn("Unidentified IOException");
         }
     }
-    void saveToFile(long eventsCount, String outDir, TransactionGenerator transactionGenerator, List<Item> itemList);
+    void saveToFile(List<Transaction> transactions, String outDir);
 }

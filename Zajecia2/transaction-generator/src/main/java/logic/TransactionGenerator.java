@@ -6,6 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import logic.IOoperations.inputParsers.InputParser;
+import logic.utils.ActiveMQUtils;
 import logic.utils.RandomGenerator;
 import model.Transaction;
 import model.Item;
@@ -86,5 +87,16 @@ public class TransactionGenerator {
             sum = sum.add(item.getPrice().multiply(BigDecimal.valueOf(item.getQuantity())));
         }
         return sum;
+    }
+
+    public List<Transaction> getAllTransactions(long eventsCount, List<Item> items) {
+        List<Transaction> transactions = new ArrayList<>();
+        ActiveMQUtils activeMQUtils = new ActiveMQUtils();
+        for (int i = 0; i < eventsCount; i++){
+            Transaction transaction = generateTransaction(items, i);
+            transactions.add(transaction);
+            activeMQUtils.sendTransaction(transaction);
+        }
+        return transactions;
     }
 }

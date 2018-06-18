@@ -13,6 +13,7 @@ import logic.TransactionGenerator;
 import logic.utils.ApplicationWrapper;
 import logic.utils.RandomGenerator;
 import model.Item;
+import model.Transaction;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
@@ -45,10 +46,13 @@ public class Application {
         CSVInputReader csvInputReader = (CSVInputReader) ctx.getBean("CSVInputReader");
         List<Item> namePriceList = csvInputReader.parseItems(inputParser.getItemsFile());
         OutputWriter outputWriter = inputParser.getOutputWriter();
-        String outDir = inputParser.getOutDir();
-        outputWriter.createOutDir(outDir);
         long eventsCount = inputParser.getEventsCount();
-        outputWriter.saveToFile(eventsCount, outDir, transactionGenerator, namePriceList);
+        List<Transaction> transactions = transactionGenerator.getAllTransactions(eventsCount, namePriceList);
+        if(inputParser.isOutDirDefined()) {
+            String outDir = inputParser.getOutDir();
+            outputWriter.createOutDir(outDir);
+            outputWriter.saveToFile(transactions, outDir);
+        }
     }
 
     public static AnnotationConfigApplicationContext createContext(CommandLinePropertySource propertySource) {
