@@ -16,21 +16,20 @@ import java.util.List;
 
 @Service
 public class JsonWriter implements OutputWriter {
-    public void saveToFile(long eventsCount, String outDir, TransactionGenerator transactionGenerator, List<Item> itemList) {
+    public void saveToFile(List<Transaction> transactions, String outDir) {
         createOutDir(outDir);
-        for (int i = 0; i < eventsCount; i++) {
-            Path outPath = Paths.get(outDir, "order" + i + ".json");
+        for (Transaction transaction : transactions) {
+            Path outPath = Paths.get(outDir, "order" + transaction.getId() + ".json");
             try (BufferedWriter writer = Files.newBufferedWriter(outPath)) {
                 logger.info("Trying to save JSON file of name " + outPath.toString());
-                writer.write(createJson(transactionGenerator, itemList, i));
+                writer.write(createJson(transaction));
             } catch (IOException e) {
                 logger.warn("File " + outPath.toString() + " already exits");
             }
         }
     }
 
-    private static String createJson(TransactionGenerator transactionGenerator, List<Item> itemList, int id) {
-        Transaction transaction = transactionGenerator.generateTransaction(itemList, id);
+    private static String createJson(Transaction transaction) {
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
         return gson.toJson(transaction);
     }

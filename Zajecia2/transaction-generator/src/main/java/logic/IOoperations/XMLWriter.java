@@ -4,6 +4,7 @@ import com.fasterxml.jackson.dataformat.xml.XmlMapper;
 import com.fasterxml.jackson.dataformat.xml.util.DefaultXmlPrettyPrinter;
 import logic.TransactionGenerator;
 import model.Item;
+import model.Transaction;
 import org.springframework.stereotype.Service;
 
 import java.io.BufferedWriter;
@@ -16,14 +17,14 @@ import java.util.List;
 public class XMLWriter implements OutputWriter {
 
     @Override
-    public void saveToFile(long eventsCount, String outDir, TransactionGenerator transactionGenerator, List<Item> itemList) {
+    public void saveToFile(List<Transaction> transactions, String outDir) {
         XmlMapper mapper = new XmlMapper();
         mapper.setDefaultPrettyPrinter(new DefaultXmlPrettyPrinter());
         createOutDir(outDir);
-        for (int i = 0;  i < eventsCount; i++) {
-            Path outPath = Paths.get(outDir, "order" + i +".xml");
+        for (Transaction transaction : transactions) {
+            Path outPath = Paths.get(outDir, "order" + transaction.getId() +".xml");
             try (BufferedWriter bufferedWriter = Files.newBufferedWriter(outPath)){
-                String xml = mapper.writeValueAsString(transactionGenerator.generateTransaction(itemList, i));
+                String xml = mapper.writeValueAsString(transaction);
                 bufferedWriter.write(xml);
             } catch (java.io.IOException e) {
                 e.printStackTrace();
