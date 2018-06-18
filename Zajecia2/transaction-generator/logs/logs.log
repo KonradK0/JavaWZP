@@ -43484,3 +43484,7 @@
 2018-06-06 23:16:22 INFO  TransactionGenerator:32 - Drawing a random customerId
 2018-06-06 23:16:22 INFO  TransactionGenerator:50 - Drawing a random number of items
 2018-06-06 23:16:22 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-19 00:48:50 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 00:48:51 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 00:48:51 DEBUG Application:38 - Creating Spring Context with MapPropertySource
+2018-06-19 00:48:51 INFO  InputParser:48 - Returning range of customer ids 1:20
