@@ -44,7 +44,7 @@ public class Application {
         inputParser.getCustomerIdRange();
         TransactionGenerator transactionGenerator = (TransactionGenerator) ctx.getBean("transactionGenerator");
         CSVInputReader csvInputReader = (CSVInputReader) ctx.getBean("CSVInputReader");
-        List<Item> namePriceList = csvInputReader.parseItems(inputParser.getItemsFile());
+        List<Item> namePriceList = csvInputReader.parseItems("~/items.csv"/*inputParser.getItemsFile()*/);
         OutputWriter outputWriter = inputParser.getOutputWriter();
         long eventsCount = inputParser.getEventsCount();
         List<Transaction> transactions = transactionGenerator.getAllTransactions(eventsCount, namePriceList);

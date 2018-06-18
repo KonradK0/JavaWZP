@@ -9,6 +9,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.UncheckedIOException;
+import java.nio.file.*;
 import java.util.List;
 
 @Service("CSVInputReader")
@@ -19,7 +20,9 @@ public class CSVInputReader {
     @SuppressWarnings("unchecked")
     private CsvToBean<Item> getCsvToBean(String fileName){
         try {
-            InputStreamReader isr = new InputStreamReader(new FileInputStream("/storage/items.csv"));
+            String separator = FileSystems.getDefault().getSeparator();
+            Path path = Paths.get("/").toAbsolutePath();
+            InputStreamReader isr = new InputStreamReader(Files.newInputStream(Paths.get("/", fileName)));
             return new CsvToBeanBuilder(isr)
                     .withType(Item.class)
                     .withSeparator(',')

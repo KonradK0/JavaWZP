@@ -43484,3 +43484,2273 @@
 2018-06-06 23:16:22 INFO  TransactionGenerator:32 - Drawing a random customerId
 2018-06-06 23:16:22 INFO  TransactionGenerator:50 - Drawing a random number of items
 2018-06-06 23:16:22 INFO  TransactionGenerator:32 - Drawing a random customerId
+2018-06-19 00:42:46 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 00:42:50 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 00:42:51 DEBUG Application:39 - Creating Spring Context with MapPropertySource
+2018-06-19 00:42:51 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:47:20 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 00:47:22 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 00:47:22 DEBUG Application:39 - Creating Spring Context with MapPropertySource
+2018-06-19 00:47:22 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:52:39 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 00:52:42 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 00:52:42 DEBUG Application:39 - Creating Spring Context with MapPropertySource
+2018-06-19 00:52:42 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:53:22 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 00:53:25 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 00:53:25 DEBUG Application:39 - Creating Spring Context with MapPropertySource
+2018-06-19 00:53:25 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:54:00 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 00:54:02 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 00:54:02 DEBUG Application:39 - Creating Spring Context with MapPropertySource
+2018-06-19 00:54:02 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:55:52 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 00:55:54 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 00:55:54 DEBUG Application:39 - Creating Spring Context with MapPropertySource
+2018-06-19 00:55:54 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:48 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 00:56:51 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 00:56:51 DEBUG Application:39 - Creating Spring Context with MapPropertySource
+2018-06-19 00:56:51 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:55 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:55 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:55 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:55 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:55 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:56 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:56 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:56 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:56 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:56 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 00:56:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 00:56:57 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 00:56:57 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 00:56:57 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 00:56:57 WARN  OutputWriter:23 - This folder already exists
+2018-06-19 00:56:57 WARN  OutputWriter:23 - This folder already exists
+2018-06-19 00:56:57 INFO  OutputWriter:24 - Trying to save JSON file of name ./order0.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order1.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order2.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order3.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order4.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order5.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order6.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order7.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order8.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order9.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order10.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order11.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order12.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order13.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order14.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order15.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order16.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order17.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order18.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order19.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order20.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order21.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order22.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order23.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order24.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order25.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order26.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order27.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order28.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order29.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order30.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order31.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order32.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order33.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order34.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order35.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order36.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order37.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order38.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order39.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order40.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order41.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order42.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order43.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order44.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order45.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order46.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order47.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order48.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order49.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order50.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order51.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order52.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order53.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order54.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order55.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order56.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order57.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order58.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order59.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order60.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order61.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order62.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order63.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order64.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order65.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order66.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order67.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order68.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order69.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order70.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order71.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order72.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order73.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order74.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order75.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order76.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order77.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order78.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order79.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order80.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order81.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order82.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order83.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order84.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order85.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order86.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order87.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order88.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order89.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order90.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order91.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order92.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order93.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order94.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order95.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order96.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order97.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order98.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order99.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order100.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order101.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order102.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order103.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order104.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order105.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order106.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order107.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order108.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order109.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order110.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order111.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order112.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order113.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order114.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order115.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order116.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order117.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order118.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order119.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order120.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order121.json
+2018-06-19 00:56:58 INFO  OutputWriter:24 - Trying to save JSON file of name ./order122.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order123.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order124.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order125.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order126.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order127.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order128.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order129.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order130.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order131.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order132.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order133.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order134.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order135.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order136.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order137.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order138.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order139.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order140.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order141.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order142.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order143.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order144.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order145.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order146.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order147.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order148.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order149.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order150.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order151.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order152.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order153.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order154.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order155.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order156.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order157.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order158.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order159.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order160.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order161.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order162.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order163.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order164.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order165.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order166.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order167.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order168.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order169.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order170.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order171.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order172.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order173.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order174.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order175.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order176.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order177.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order178.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order179.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order180.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order181.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order182.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order183.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order184.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order185.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order186.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order187.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order188.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order189.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order190.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order191.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order192.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order193.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order194.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order195.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order196.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order197.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order198.json
+2018-06-19 00:56:59 INFO  OutputWriter:24 - Trying to save JSON file of name ./order199.json
+2018-06-19 01:05:56 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:05:57 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:05:57 INFO  InputParser:174 - Parsing output format
+2018-06-19 01:05:57 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:05:57 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 01:05:57 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:05:58 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:05:58 INFO  InputParser:174 - Parsing output format
+2018-06-19 01:05:58 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:05:58 INFO  InputParser:124 - Parsing events count
+2018-06-19 01:05:58 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:05:58 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:05:58 INFO  InputParser:76 - Parsing items file name
+2018-06-19 01:05:58 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:05:59 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:05:59 INFO  InputParser:90 - Parsing items count range
+2018-06-19 01:05:59 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:05:59 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:05:59 INFO  InputParser:41 - Trying to parse range of customer ids 1:30
+2018-06-19 01:05:59 INFO  InputParser:49 - Returning range of customer ids 1:30
+2018-06-19 01:05:59 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:05:59 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:05:59 INFO  InputParser:138 - Parsing items file name
+2018-06-19 01:05:59 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:06:00 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:06:00 INFO  InputParser:174 - Parsing output format
+2018-06-19 01:06:00 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:06:00 INFO  InputParser:174 - Parsing output format
+2018-06-19 01:06:00 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:06:00 INFO  InputParser:108 - Parsing items quantity range
+2018-06-19 01:06:00 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:06:01 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 01:06:01 INFO  TransactionGenerator:77 - Creating an item on list
+2018-06-19 01:06:01 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 01:06:01 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 01:06:01 INFO  TransactionGenerator:58 - Drawing random quantity of an item
+2018-06-19 01:06:01 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 01:06:01 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 01:06:01 INFO  TransactionGenerator:45 - Drawing a random date
+2018-06-19 01:06:01 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 01:06:01 INFO  TransactionGenerator:51 - Drawing a random number of items
+2018-06-19 01:06:01 INFO  TransactionGenerator:33 - Drawing a random customerId
+2018-06-19 01:19:25 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:19:27 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:19:27 DEBUG Application:39 - Creating Spring Context with MapPropertySource
+2018-06-19 01:19:27 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 01:22:12 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:22:15 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:22:16 DEBUG Application:39 - Creating Spring Context with MapPropertySource
+2018-06-19 01:22:16 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 01:23:19 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:23:22 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:23:22 DEBUG Application:39 - Creating Spring Context with MapPropertySource
+2018-06-19 01:23:22 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 01:23:55 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:23:58 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:23:58 DEBUG Application:39 - Creating Spring Context with MapPropertySource
+2018-06-19 01:23:58 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 01:24:43 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:24:46 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:24:46 DEBUG Application:39 - Creating Spring Context with MapPropertySource
+2018-06-19 01:24:46 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 01:25:33 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:25:36 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:25:36 DEBUG Application:39 - Creating Spring Context with MapPropertySource
+2018-06-19 01:25:36 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 01:26:32 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:26:35 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:26:35 DEBUG Application:39 - Creating Spring Context with MapPropertySource
+2018-06-19 01:26:35 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 01:27:16 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:27:19 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:27:19 DEBUG Application:39 - Creating Spring Context with MapPropertySource
+2018-06-19 01:27:19 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 01:30:27 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:30:30 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:30:30 DEBUG Application:39 - Creating Spring Context with MapPropertySource
+2018-06-19 01:30:30 INFO  InputParser:49 - Returning range of customer ids 1:20
+2018-06-19 01:33:41 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:33:44 ERROR InputParser:22 - Unable to read or load properties file
+2018-06-19 01:33:45 DEBUG Application:39 - Creating Spring Context with MapPropertySource
+2018-06-19 01:33:45 INFO  InputParser:49 - Returning range of customer ids 1:20
