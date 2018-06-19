@@ -20,9 +20,7 @@ public class CSVInputReader {
     @SuppressWarnings("unchecked")
     private CsvToBean<Item> getCsvToBean(String fileName){
         try {
-            String separator = FileSystems.getDefault().getSeparator();
-            Path path = Paths.get("/").toAbsolutePath();
-            InputStreamReader isr = new InputStreamReader(Files.newInputStream(Paths.get("/", fileName)));
+            InputStreamReader isr = new InputStreamReader(new FileInputStream(fileName));
             return new CsvToBeanBuilder(isr)
                     .withType(Item.class)
                     .withSeparator(',')
