@@ -1,4 +1,4 @@
-group 'konrad'
+group 'zajecia01'
 version '1.0-SNAPSHOT'
 
 apply plugin: 'java'
@@ -12,9 +12,6 @@ repositories {
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
 }
-
-
-
 
 jar {
     manifest {
@@ -34,15 +31,15 @@ sourceSets {
     }
 }
 
-task myTask{
-    def chosenProfileFile = file "src/main/resources/profiles/" + profile + ".properties"
-    def dbPropertiesFile = file "src/main/resources/db.properties"
+task chooseProfile {
+    def chooseProfileFile = file "src/main/resources/profiles/" + profile + ".properties"
+    def dbPropFile = file "src/main/resources/db.properties"
 
     def profileProperties = new Properties()
     def dbProperties = new Properties()
 
-    chosenProfileFile.withReader {profileProperties.load(it)}
-    dbPropertiesFile.withReader {dbProperties.load(it)}
+    chooseProfileFile.withReader{ profileProperties.load(it)}
+    dbPropFile.withReader{ dbProperties.load(it)}
 
     dbProperties.setProperty("database.jdbc.driverClass", profileProperties.getProperty("driverClass") )
     dbProperties.setProperty("database.jdbc.connectionURL", profileProperties.getProperty("connectionURL") )
@@ -50,6 +47,9 @@ task myTask{
     dbProperties.setProperty("database.jdbc.password", profileProperties.getProperty("password") )
 
     def outStream = new FileOutputStream("src/main/resources/db.properties")
-    dbPropertiesFile.withWriter { dbProperties.store(outStream, null)}
+    dbPropFile.withWriter { dbProperties.store(outStream, null)}
     outStream.close()
+
+    def dirName = "build/resources/main/profiles"
+    delete dirName
 }
